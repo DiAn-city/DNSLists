@@ -4,7 +4,7 @@ cloudflare-gateway.com
 #1. Bing News image:
 //img-s-msn-com.akamaized.net
 //c.msn.com
-srtb.msn.com (app Bing bị đóng)
+srtb.msn.com (app Bing bị đóng khi tìm kiếm)
 
 #2. Cloudflare
 !2a, Cryptomining:
