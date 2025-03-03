@@ -156,9 +156,7 @@ pagead2.googlesyndication.com
 #7. Phim.nguonc.com 2025-02-27
 phim.nguonc.com
 img.streamvd.club
-embed.streamc.xyz
-embed1.streamc.xyz
-embed11.streamc.xyz
+streamc.xyz
 freedoihoiccgi.top
 sv1.streamvda.top
 #8. Shopee load ảnh?
@@ -198,12 +196,14 @@ ihentai.vin
 viet69.vin
 desu.win
 xxphim.win
+!.work 6
 elphago.work
 frame.work
 icpc1hn.work
 koding.work
 searx.work
 skymanga.work
+!.online 7
 arabsdoujin.online
 biphim.online
 dnsspeedtest.online
