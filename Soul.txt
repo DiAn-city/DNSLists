@@ -1,0 +1,476 @@
+! Title: Kiwi
+! Homepage: https://github.com/bui-lang/dian/blob/main/kiwi.txt
+! Version: 2024-12-29
+! Expires: 1 day
+! Number of entries: 307
+!
+! group_Hentai #22
+! group_HoatHinh #L57
+! group_Novel #L70
+! group_News #L82
+! group_Phim #L150
+! group_Popup #69
+! group_Truyen #L217
+! group_XXX #L393
+!
+# Chung rule
+/wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.art|theundergroundclub.net|hentaivn.tube|hentaivn.news
+||i.imgur.com^*.gif$domain=phimtop.net|xamvn.date|phimmoi02.net|thienvadia.icu
+||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
+questsupremacy.com,regressorinstructionmanual.com##.code-block
+
+# Group HENTAI: 7
+! 1, Hentai247.vip 04-9-2024
+||cdn.hentai247.vip//banner
+hentai247.vip##.ads_popup
+! 2, Hentaicube.net 21-8-2024
+||cdn.hentaicube.net/qcs/*.gif$image 
+! 3, Hentaivn.la
+hentaivn.la##.qx_135
+||static.htvncdn.net/icon/debut-light.png$image
+! 4, LxManga.net/ 2023-07-27
+||l.linklyhq.com/l/1oOoo
+||xemphim8k.com^$third-party
+||bongda12h.com^$third-party
+! 5, Manhwa18.com
+||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
+! 6, SayHentai.fun/ 2023-12-27
+||039vnd.com^
+||039vip0.com^
+||rw8899.com^
+||uk88.top^
+||sayhentai.fun/img/
+||ak-d.tripcdn.com/images/*.gif$domain=sayhentai.pro
+! 7, SayHentai.pro 15-3-2024
+sayhentai.pro##.ads_popup.hidden-ads
+||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.pro
+||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
+||vipads.live^
+||vipads.cc^
+||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
+sayhentai.pro##.float-ck-center-lt
+||sayhentai.pro/assets/css/images/bg-search.jpg$image
+||gwemwyqugg.com^
+||uk88.com^
+||acmorhmiwtit.com^
+
+# Group_HoatHinh: 4
+! 1, Animetvn.com
+animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
+animetvn.com##.shareUrl, .thongbao20
+! 2, hhtq3d.com 13-6-2024
+s2.truyentot.com
+! 3, VuiAnime.net
+||vuianime.net/catfish_26.gif$image
+vuianime.net##body > div:nth-of-type(5)
+vuianime.net###main-content > div:nth-of-type(3)
+! 4, VuiGhe.net
+vuighe.net##.banner-masthead
+
+# group_Novel: 2
+doctruyenchufull.com##[src]
+lightnovelpub.com##.show.sidebar-wrapper
+novelpub.com##.adsbox
+! 1, m.mayiwxw.com
+||m.mayiwxw.com/1KHO3FxT/*$script
+/WH369.js$script
+/LH370GE2.js$script
+! 2, 2023-02-20
+wap.ibiquge.la###strl
+||banyueya.top/bkk.html
+
+# group_News: 23
+! 1, Android Police (22-2-2024)
+www.androidpolice.com##.affiliate-sponsored
+www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
+! 2, ChromeStory.com
+chromestory.com##.widget-area.custom-widget
+! 3, ChromeUnBoxed.com
+chromeunboxed.com##.desktopHeaderBanner
+chromeunboxed.com##.code-block-8.code-block
+chromeunboxed.com##.crp_related_block.crp_related
+! 4, CocCoc News
+news.coccoc.com##._275a2205-ad
+! 5, Báo Công an TP.HCM
+congan.com.vn##.adMobileHeader
+! 6, DanChimViet.info 16-9-2024
+www.danchimviet.info##.td-with-like.td-post-sharing-top.td-post-sharing
+www.danchimviet.info##.td-with-like.td-post-sharing-bottom.td-post-sharing
+! 7, DanQuyen.com 03-7-2024
+||danquyen.com/Yhoc/test.jpg$image
+! 8, Báo Dân trí
+dantri.com.vn###tpmInpageContainer
+! 9, Genk
+m.genk.vn##.fb_share.fl
+! 10, GetDroidTips
+getdroidtips.com##.ai-viewport-4.ai-viewport-3.code-block
+! 11, HoaRauMa.com 1-11-2024
+hoarauma.com##.justify-center.hover\:shadow-xl.hover\:scale-105.duration-200.shadow-md.bg-white.rounded-xl.overflow-hidden.max-w-sm
+! 12, Lag.vn - tin game
+lag.vn##.has-pad--vert--ultra.article--one-column > .banner
+! 13, MSN Bing
+www.msn.com##.accent.article-cont-read-button-on-app
+! MSN Sponsored Content 19-3-2024
+www.msn.com##end-of-content-block
+! 14, Báo phụ nữ
+phunutoday.vn##.checknotclass_mb
+! 15, PhuotHanoi
+phuothanoi.com###popup_banner_beta
+! 16, TheNextWeb.com
+thenextweb.com##.tnw-ad-wrapper
+thenextweb.com##.lg\:hidden.c-share
+! 17, TheOldReader - 06.4.2024
+theoldreader.com##.banner
+! 18, Thể thao 24/7
+thethao247.vn##.explus_related_1404022217_left.explus_related_1404022217.expNoEdit
+! 18, ThoiBao.de 16-9-2024
+thoibao.de##.lazyloaded.entered.size-full.wp-image-131617.alignnone
+! 20, TinTuc3mien.com/ 09-6-2024
+www.tintuc3mien.com##.backdrop-popup
+www.tintuc3mien.com###SECTION_POPUP
+! 21, Báo Tuổi Trẻ
+congnghe.tuoitre.vn##div.ArfWrapper
+tv.tuoitre.vn###iframe-jn1ipiie-kupj7pi3
+! 22, VietNamNet
+vietnamnet.vn##.banner-top-mashead.vmcadszone
+vietnamnet.vn###vmcad_inview_container
+vietnamnet.vn###Mobile_AdsArticleBodyInArticle
+! 23, VnExpress.net 2025-02-15
+! Nút tài khoản và nút thông báo ở góc trên bên phải:
+||s1.vnecdn.net/myvne/j/v270/m_myvne_users_v3.js
+! app
+vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
+vnexpress.net##.wrap-hd-adblock
+vnexpress.net##.button-adblock
+vnexpress.net##.box-taitro.box-category
+vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
+Test VnExpress bị ko thể vuốt:
+!vnexpress.net##.center.section
+!vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
+
+# group_Phim: 10
+! 1, https://phim.nguonc.com
+# embed.streamc.xyz/ 16-4-2024
+# embed1.streamc.xyz/ 18-4-2024
+||img.nguonc.com/public/images/*.gif$image
+! 2, Phimmoi.today, Phimmoinet.lol
+||i.imgur.com/HG2ebaq.gif$image
+||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
+||linkads.xyz/i9bet/400x300.jpg$image
+phimmoi.today,phimmoinet.lol##.popUpBannerBox
+! 3, https://phimmoi02.net 26-12-2024
+||aff.bk8vnaf.com/public/html/cms/A20240725090242190.gif$image
+! 4, Phimmoiz1.net
+phimmoiz1.net##.container > .right-box
+phimmoiz1.net###catfish
+phimmoiz1.net###popup-giua-man-hinh
+! 5, NguonHD.net, NguonTvb.com 22-6-2024
+||nguontv.com^
+! https://154.82.109.153/57.html
+||154.82.109.153^
+nguonhd.net,nguontvb.com###antiAdblock
+! 6, TvZingHD.co/ 25-02-2024
+tvzinghd.co###prei9ztv
+||images.weserv.nl/?url=https://i.ibb.co/T8CRFfK/320-x80f.gif&output=gif&n=-1$image
+! 7, PhimTop.net
+||phimtop.net/iframe/mobi_top.html$subdocument
+phimtop.net,vuianime.net,saytruyen.net##center
+phimtop.net##.sticky_bottom
+phimtop.net###player_message
+! 8, BiChill.tv
+bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
+! 9, MotChill.net
+motchill.net##.container > .film-note
+! 10, MotChillTvn.com/ 06-8-2024
+||raw.githubusercontent.com/mrcotb/aadriver/main/*new-607x75.gif$image
+
+! voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-32472237
+||polyfill.io^
+
+! Group_Popup: 3
+||s.shopee.vn^
+||s.lazada.vn^
+||shope.ee^
+||shopee.vn^$doc
+# 1, Redirect Shopee (13-6-2024)
+||baodientu.online^
+||fecabookvn.com^
+||fecabookz.com^
+||hdzonline.pro^
+||phan2.pro^
+||phimtronbo.pro^
+||phimzhd.pro^
+||tinhotnew.com^
+||tintuc-24h.com^
+||tuoitre24h.info^
+||vn-express.net^
+||watchtv.fun^
+# 2, Popup đăng nhập Google (01.02.2024)
+||accounts.google.com/gsi/iframe/select$subdocument
+# 3, Popup Cookie "www-bbc-com.translate.goog/vietnamese?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp" (24-4-2024)
+www-bbc-com.translate.goog##.eh3hs0a4.bbc-1f1v9xr
+
+! ##.qc (ABPVN) 24-7-2024
+cloudflare.com#@#.qc
+
+! YouTube Mobile 15-8-2024
+!m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(1)
+!m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(3)
+
+! GROUP_Truyen
+# Chinese
+! Baozimh.com/ 26-3-2024
+www.hbmanga.com##.comic-contain > div.mobadsq
+www.hbmanga.com###sticky_ads_frame_a
+# Vietnamese
+! 1, FastScans1.net 16-10-2024
+||s1.fstscnmw.org/shopee/product*.jpg$image
+! 2, NhatTruyenvn.com 27-6-2024
+nhattruyenvn.com###myPopup-game
+! 3, NetTruyen.com 03-3-2023
+||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
+||phumsise.com^
+||st.nettruyenbing.com/data/sites/1/banner/
+||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
+nettruyenff.com##[class^="mce-container mce-flow-layout-item mce-first mce-last mce-btn-group"]
+! 4, NetTruyenAA.com 06-7-2024
+||ads.mxhnkn.pro/popup/popup.js$script
+||greendragonworld.pro^
+! 5, NetTruyenEdu.com 20-02-2025
+! Shopee onclick:
+nettruyenedu.com##.ads_insert_shop
+! 6, NetTruyenXX.com/ Phimmoiaa.com/ 08-5-2024
+||hello888999.com^
+||66hello88.com^
+! 7, NetTruyenUss.com (fake) 17-5-2024
+||kftytkhurx.xyz^
+! 8, TuTienTruyen5.xyz 18-6-2024
+||tutientruyen5.xyz/app/manga/uploads/72890.gif$image
+||tutientruyen5.xyz/app/manga/uploads/400300.jpg$image
+! 9, TruyenqqViet.com/ 19-7-2024
+truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
+truyenqqpro.com##div[id^="image_popup_"]
+||truyenvua.xyz/qc-new/*$image
+||aqnobnhcod.com^
+! 10, VlogTruyen
+vlogtruyen2.net##.fancybox-skin
+vlogtruyen2.net##.relate-manga.box-dinh-ky
+vlogtruyen2.net##.mobile-catfish
+vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
+||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
+||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
+! 11, Otakusan.net/ 13-8-2024
+otakusan.net##.vertical-banner
+! 12, Pops.vn/ 19-8-2023
+||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
+pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
+! Rule bên dưới làm không xem được video ở kids.pops.vn
+!pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
+# Korean
+! 13, Naver Comic
+m.comic.naver.com###flex_ad_image
+m.comic.naver.com##.v2.band_banner
+! 14, NewToki466 29-12-2024
+/tokinbtoki/*.gif
+||newtoki.help/banner/$image
+||xn--ph1bph0az41x.org^*.gif$image
+newtoki.biz##.ba_test
+newtoki.help##.banner2
+newtoki.biz##.banner3
+newtoki.*###hd_pops_4
+newtoki466.com##.media-heading
+! 15, m.newtokirun.com 29-9-2024
+||blogger.googleusercontent.com/img/a/AVvXsE*$image,domain=newtokirun.com
+! https://newtoki.one 15-9-2024
+newtoki.one##.banner
+! 늑대닷컴 https://wfwf350.com 15-9-2024
+wfwf350.com##.top-banner
+! https://늑대닷컴.org , https://xn--ph1bph0az41x.org (15-9-2024)
+늑대닷컴.org##.banners
+# English
+! 15, Mangabtt.com/ 2023-11-22
+||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
+mangabtt.com##div.reading-control
+! 16, QuestSupremacy.com
+||ak.torioluor.com/afu.php
+mangaonlineteam.com##.wp-manga.c-top-second-sidebar.c-sidebar
+! 17, Reality-quest.online
+reality-quest.online##.essb_links_list
+reality-quest.online##.kofi-button
+! 18, ReaperScans.com
+||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
+
+! SMSOnline.cloud 16-10-2024
+www.smsonline.cloud##.block.adsbygoogle
+! TrueCaller (2024-01-21)
+www.truecaller.com##.left-0.top-0.z-1000.h-full.w-full.p-4.justify-center.items-center.flex.fixed.modal
+! Á Châu Bank (2023-11-16)
+acb.com.vn##div:nth-of-type(8)
+! DVN - trang điện máy (2023-08-31)
+dvn.com.vn##.iosAdsiosAds-layout
+! XoSo 22-2-2024
+xosodaiphat.com##.banner-600.qc-sticky
+
+goonlinetools.com##.py-1
+www-ghacks-net.translate.goog##div.box-banner
+tr-ex.me##.ads
+dictionary.cambridge.org##.topslot-container.tz0
+! DOL Dictionary (2024-02-06)
+tudien.dolenglish.vn##.modal-portal-full-screen.fjPCXk.ModalPortalFullScreen__Container-sc-8ytn78-0
+! Từ điển Hán Nôm
+hvdic.thivien.net##.notification
+! 2024-4-21 www.o-study.net
+www.o-study.net###POPUP759
+www.o-study.net###IMAGE751
+
+! APK
+apkmirror.com##.membership-text.advertisement-text
+gocmod.com##.ya-share2_inited.ya-share2
+forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
+happymoddownload.com##.ad-wap
+
+! Hinative.com
+hinative.com##.active.mod_banner_app_download_sticky_button
+hinative.com##.mod_ads_balloon.chat_content_wrapper
+! Topicanative.edu.vn
+topicanative.edu.vn##.sgpb-popup-dialog-main-div-wrapper
+topicanative.edu.vn##.sgpb-popup-overlay.sgpb-theme-1-overlay
+
+! 2024-01-26 VuongGiaVinhDieu.com
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj*$image,domain=vuonggiavinhdieu.com
+www.vuonggiavinhdieu.com###overlay
+
+c.mi.com##.cookie-setting-bottom-bar
+vi.xiaomitoday.it##.__lxG__size_fixed.__lxG__loading_block
+! mifirm.net/ 2024-5-13
+mifirm.net###block-mess
+mifirm.net##.bnud.holder
+
+timki.vn##.adsJH09
+||page.widget.zalo.me/$subdocument,domain=didongviet.vn
+
+! Reddit NSFW 01-02-2024
+||www.redditstatic.com/shreddit/en-US/xpromo-nsfw-blocking-modal-*.js
+||www.redditstatic.com/shreddit/en-US/nsfw-blocking-*.js
+www.reddit.com##xpromo-nsfw-blocking-modal,slot+.prompt 
+www.reddit.com##[style*="blur"]:style(filter:none!important;)
+!
+reddit.com##.XPromoPopup
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##.XPromoInFeed
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.upsell_banner
+reddit.com##.TopNav__promoButton, ._2pUaFeMjwDAhdxtQUwSRcQ
+
+wallpapers.com###stickyunit
+wall.alphacoders.com##.ads-bottom-center-infinite.center, .ads-top-center-mobile.center
+
+! VuotLink.vip 19-8-2024
+||vuotlink.vip/gaixinh.jpg$image
+||vuotlink.vip/download.jpg$image
+
+||linksvip.net/images/momo.png$image
+voca.vn##.center-content
+dafulbrightteachers.org###ads_1234
+anhngumshoa.com##.phonering-alo-show.phonering-alo-green.phonering-alo-phone
+||cdnstepup.r.worldssl.net/wp-content/uploads/2020/08/app-vua*.jpg$image
+ielts-fighter.com##.pnleft
+hotcourses.vn###ckieOvrlayDiv
+||saigonvina.edu.vn/uploads/images/news/1620362810_newsng$image
+
+forum.vivaldi.net##div[widget-area="header"]
+m.baomoi.com###js-masthead
+m.baomoi.com##footer
+anonyviet.com##.adsbygoogle
+luatvietnam.vn##.advHolder
+techz.vn##.mt-4.d-flex.list-five-news
+24h.com.vn##.xocbg.atclRdSbIn, .event-box.xocbg.vidItm
+m.dkn.news,mb.dkn.tv###appbn
+m.tinhhoa.net,m.dkn.news##.fixed-vid.single-post-video
+
+vi.duolingo.com##._120kx
+forum.duolingo.com##.GB_SB
+forum.duolingo.com##div.ReactModalPortal:nth-of-type(6)
+
+edu2review.com###mobile-footer
+edu2review.com##.hide-xl-more.flex-center.fluid
+
+! GROUP:XXX
+! 1, https://cliphot.uk 14-9-2024
+||qcvip.xyz/wp-content/uploads/2024/09/i999xx.gif$image
+cliphot.uk###mp-preload-popup-overlay
+! 2, khieudam.club/ 28-01-2024
+||xxxads.info^$image
+! 3, 04-3-2024
+lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
+! 3, Vlxx.cam 2023-11-13 (uBlock filters – Ads)
+/aas/r45d/vki/*$script,redirect-rule=noop.js
+! 4, VlxxTube.pics, Viet69.homes 31-7-2024
+||spankbangdl.com^$domain=vlxxtube.pics|viet69.homes
+! 5, Viet69.hair 17-6-2024
+viet69.hair###mp-preload-pp-overlay
+||telegra.ph/file/8cb17c7560cfcb6ab1957.gif$image
+! 6, Tuoi69.fan 04-01-2025
+tuoi69.fan##body > .float-ckgiua
+||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
+! 7, ThienVaDia.vip
+thienvadia.vip##.js-notices.notices--block.notices
+! 8, MePhim18.com/ 2023-01-05
+mephim18.com###backgroundPopupp
+||media.discordapp.net/attachments/918179438494101527/1*.gif$image,domain=mephim18.com
+||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
+! 9, Heovl.best, Vlxx.sale 29-7-2024
+/wp-content/uploads/2024/05/I9-popup-400x300-1.png$image,domain=heovl.best|vlxx.sale
+/wp-content/uploads/pum/pum-site-scripts.js$script,domain=heovl.best|vlxx.sale
+||heovl.best/wp-content/uploads/2024/07/88-go-.com728-90.gif$image
+||154.82.109.135^
+||23.224.188.31^
+||i9520.com^
+||faptvxx.com^
+@@||bf.333xbet.com^$media,domain=heovl.best|vlxx.sale
+heovl.best,vlxx.sale##.video-js.tvc-video
+||vjs.zencdn.net^$domain=heovl.best
+||code.jquery.com^$domain=heovl.best
+! 10, PublicAgent.com 02-10-2024
+||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
+||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
+||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
+publicagent.com##[class="sc-8lvev9-1 ikiYEr"]
+! 11, FapDiner.com/ 21-7-2024
+||arzruqmougxvdv.com^
+! 12, TheFap.net/ 2023-12-30
+thefap.net###popupContactU
+! 13, MeoMeotv.pro/ 07-6-2024
+sancoxanh.com
+az888v17.com
+meomeotv.pro##.popUpBannerBox
+meomeotv.pro##.ads-inside-video
+||a1.meomeotv.biz/mmtv/image/c6425dded6173147210b6a6e79ad74dadc5afdeb.webp$image
+||a1.meomeotv.biz/mmtv/image/2b97eea091acd409c0a3d946d4349018805ae6ca.webp$image
+||a1.meomeotv.biz/mmtv/image/473109878aaa2c940ecae015b4660a29cddd609e.webp$image
+! 14, Xsub.cc (2023-10-30), xsub.tv (2024-02-06)
+||xsub.tv/js/xsub_pu_25.js$xhr,1p
+||ww1.javbabe.net/x1x/*.html$subdocument
+! 15, SexSub.guru/ 23-7-2024
+||sexsub.baby/_1/i9b.gif$image
+! 16, SexHD.javhay.click/ 23-7-2024
+||sexsub.guru/_1/88vn.gif$image
+! 17, SexHD89.com/ 30-7-2024
+!||demo123.info/vip123/250.html$subdocument
+||demo123.info/vip123/
+||demo123.info/preload/vip.js$script,domain=sexhd89.com
+! 18, Vn.SexVietNam.Sex/ 01-8-2024
+||vn.sexvietnam.sex/ads/ads.js$script
+! END
+
+chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
+tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
+
+! Chế độ tối:
+||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
+||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
+
+d3ward.github.io##.adbox.banner_ads.adsbox
+d3ward.github.io##.textads
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
