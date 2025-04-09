@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-3-23
+! Version: 2025-4-09
 ! Expires: 1 day
 ! Number of entries: 306
 !
@@ -240,9 +240,9 @@ nettruyenff.com##[class^="mce-container mce-flow-layout-item mce-first mce-last 
 ! 4, NetTruyenAA.com 06-7-2024
 ||ads.mxhnkn.pro/popup/popup.js$script
 ||greendragonworld.pro^
-! 5, NetTruyenFPT.com 23-3-2025
+! 5, NetTruyenVNPT.com 09-4-2025
 ! Shopee onclick:
-nettruyenfpt.com##.ads_insert_shop
+nettruyenvnpt.com##.ads_insert_shop
 ! 6, NetTruyenXX.com/ Phimmoiaa.com/ 08-5-2024
 ||hello888999.com^
 ||66hello88.com^
