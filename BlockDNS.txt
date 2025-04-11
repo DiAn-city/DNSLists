@@ -96,7 +96,8 @@ hello888999.com
 az888v5.com
 ! PinkTeaComics.com 29-8-2024
 litarnrajol.com
-# T:3
+
+# T:4
 ! Telegram Ads
 api.adsgram.ai # một số chức năng của một số bot ko hoạt động
 ! TheBlank.net 17-8-2024
@@ -125,6 +126,9 @@ ozbnagojbop.com
 ruxdtiapgti.com
 vzoahlod.com
 whywolveshowl.com
+! Tuoi69.gives 2025-4-12
+nakoomohalim.top
+
 # V:2
 ! Voz.vn
 aj1559.online
