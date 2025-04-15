@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-4-09
+! Version: 2025-4-15
 ! Expires: 1 day
-! Number of entries: 306
+! Number of entries: 307
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -148,44 +148,46 @@ vnexpress.net##.box-taitro.box-category
 !vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
 !vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
 
-# group_Phim: 10
+# group_Phim: 12
 ! 1, https://phim.nguonc.com
 # embed.streamc.xyz/ 16-4-2024
 # embed1.streamc.xyz/ 18-4-2024
 ||img.nguonc.com/public/images/*.gif$image
-! 2, Phimmoi.today, Phimmoinet.lol
+! 2, phimbuon.net 2025-4-15
+||phimbuon.net/Content/ads_preload.js$script
+! 3, Phimmoi.today, Phimmoinet.lol
 ||i.imgur.com/HG2ebaq.gif$image
 ||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
 ||linkads.xyz/i9bet/400x300.jpg$image
 phimmoi.today,phimmoinet.lol##.popUpBannerBox
-! 3, https://phimmoi02.net 26-12-2024
+! 4, https://phimmoi02.net 26-12-2024
 ||aff.bk8vnaf.com/public/html/cms/A20240725090242190.gif$image
-! 4, Phimmoiz1.net
+! 5, Phimmoiz1.net
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
 phimmoiz1.net###popup-giua-man-hinh
-! 5, NguonHD.net, NguonTvb.com 22-6-2024
+! 6, NguonHD.net, NguonTvb.com 22-6-2024
 ||nguontv.com^
 ! https://154.82.109.153/57.html
 ||154.82.109.153^
 nguonhd.net,nguontvb.com###antiAdblock
-! 6, TvZingHD.pro 15-3-2025
+! 7, TvZingHD.pro 15-3-2025
 ||images.weserv.nl/?url=https://i.ibb.co/F4FFhJkV/400-x-300.jpg$image
 ||images.weserv.nl/?url=https://i.imghippo.com/files/*.gif$image
 ||raw.githubusercontent.com/antoinettechurch86345/tvc/main/video888480.mp4$media
-! 7, TvZingHD.co/ 25-02-2024
+! 8, TvZingHD.co/ 25-02-2024
 tvzinghd.co###prei9ztv
 ||images.weserv.nl/?url=https://i.ibb.co/T8CRFfK/320-x80f.gif&output=gif&n=-1$image
-! 7, PhimTop.net
+! 9, PhimTop.net
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net,vuianime.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
-! 8, BiChill.tv
+! 10, BiChill.tv
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
-! 9, MotChill.net
+! 11, MotChill.net
 motchill.net##.container > .film-note
-! 10, MotChillTvn.com/ 06-8-2024
+! 12, MotChillTvn.com/ 06-8-2024
 ||raw.githubusercontent.com/mrcotb/aadriver/main/*new-607x75.gif$image
 
 ! voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-32472237
