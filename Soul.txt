@@ -155,6 +155,7 @@ vnexpress.net##.box-taitro.box-category
 ||img.nguonc.com/public/images/*.gif$image
 ! 2, phimbuon.net 2025-4-15
 ||phimbuon.net/Content/ads_preload.js$script
+||xemphimhay247.com/Files/Ads/i9-720x90.gif
 ! 3, Phimmoi.today, Phimmoinet.lol
 ||i.imgur.com/HG2ebaq.gif$image
 ||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
