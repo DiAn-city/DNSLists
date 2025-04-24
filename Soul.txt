@@ -474,6 +474,8 @@ meomeotv.pro##.ads-inside-video
 ||vn.sexvietnam.sex/ads/ads.js$script
 ! END
 
+! ZingMp3.vn 22-4-2025 
+||zingmp3.vn/api/v2/promotion/get/zones$xhr
 chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
 tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
 
