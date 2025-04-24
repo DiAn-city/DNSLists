@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-4-15
+! Version: 2025-4-24
 ! Expires: 1 day
 ! Number of entries: 307
 !
@@ -10,7 +10,7 @@
 ! group_News #L82
 ! group_Phim #L151
 ! group_Popup #69
-! group_Truyen #L224
+! group_Truyen #L227
 ! group_XXX #L393
 !
 # Chung rule
@@ -229,7 +229,7 @@ cloudflare.com#@#.qc
 ! Baozimh.com/ 26-3-2024
 www.hbmanga.com##.comic-contain > div.mobadsq
 www.hbmanga.com###sticky_ads_frame_a
-# Vietnamese
+# Vietnamese: 13
 ! 1, FastScans1.net 16-10-2024
 ||s1.fstscnmw.org/shopee/product*.jpg$image
 ! 2, NhatTruyenvn.com 27-6-2024
@@ -243,32 +243,36 @@ nettruyenff.com##[class^="mce-container mce-flow-layout-item mce-first mce-last 
 ! 4, NetTruyenAA.com 06-7-2024
 ||ads.mxhnkn.pro/popup/popup.js$script
 ||greendragonworld.pro^
-! 5, NetTruyenVNPT.com 09-4-2025
+! 5, NettruyenR.com 2025-4-18
+||withagecomeswisdom.live^
+||xibet.com^$doc
+||yougetwhatyoupayfor.net^$script
+! 6, NetTruyen1975.com 23-4-2025
 ! Shopee onclick:
-nettruyenvnpt.com##.ads_insert_shop
-! 6, NetTruyenXX.com/ Phimmoiaa.com/ 08-5-2024
+nettruyenvnpt.com,nettruyen1975##.ads_insert_shop
+! 7, NetTruyenXX.com/ Phimmoiaa.com/ 08-5-2024
 ||hello888999.com^
 ||66hello88.com^
-! 7, NetTruyenUss.com (fake) 17-5-2024
+! 8, NetTruyenUss.com (fake) 17-5-2024
 ||kftytkhurx.xyz^
-! 8, TuTienTruyen5.xyz 18-6-2024
+! 9, TuTienTruyen5.xyz 18-6-2024
 ||tutientruyen5.xyz/app/manga/uploads/72890.gif$image
 ||tutientruyen5.xyz/app/manga/uploads/400300.jpg$image
-! 9, TruyenqqViet.com/ 19-7-2024
+! 10, TruyenqqViet.com/ 19-7-2024
 truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
 truyenqqpro.com##div[id^="image_popup_"]
 ||truyenvua.xyz/qc-new/*$image
 ||aqnobnhcod.com^
-! 10, VlogTruyen
+! 11, VlogTruyen
 vlogtruyen2.net##.fancybox-skin
 vlogtruyen2.net##.relate-manga.box-dinh-ky
 vlogtruyen2.net##.mobile-catfish
 vlogtruyen2.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
 ||cdn.vlogtruyen.net/cdn/chapter/2021/11/05/0567224862_Output3_015.jpg$image
 ||vlognovel.com/storage/photos/61603cb0e0e8f85708010e39/PR%20Nh%C3%B3m,%20Page/2021-12-21_081051.jpg$image
-! 11, Otakusan.net/ 13-8-2024
+! 12, Otakusan.net/ 13-8-2024
 otakusan.net##.vertical-banner
-! 12, Pops.vn/ 19-8-2023
+! 13, Pops.vn/ 19-8-2023
 ||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 ! Rule bên dưới làm không xem được video ở kids.pops.vn
