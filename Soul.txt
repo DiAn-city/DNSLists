@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-4-24
+! Version: 2025-4-25
 ! Expires: 1 day
-! Number of entries: 307
+! Number of entries: 308
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -435,11 +435,14 @@ mephim18.com###backgroundPopupp
 heovl.best,vlxx.sale##.video-js.tvc-video
 ||vjs.zencdn.net^$domain=heovl.best
 ||code.jquery.com^$domain=heovl.best
-! 10, PublicAgent.com 02-10-2024
-||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
-||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
-publicagent.com##[class="sc-8lvev9-1 ikiYEr"]
+! 10, PublicAgent.com 25-4-2025
+||app-assets.project1content.com/tour/@one/blocks/async/DisclaimerBlock.add5a756.js$script
+www.publicagent.com##.iwCJUI.sc-3hrznp-2
+!02-10-2024
+!||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
+!||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
+!||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
+!publicagent.com##[class="sc-8lvev9-1 ikiYEr"]
 ! 11, FapDiner.com/ 21-7-2024
 ||arzruqmougxvdv.com^
 ! 12, TheFap.net/ 2023-12-30
