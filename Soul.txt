@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-4-25
+! Version: 2025-4-28
 ! Expires: 1 day
-! Number of entries: 308
+! Number of entries: 306
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -149,7 +149,7 @@ vnexpress.net##.box-taitro.box-category
 !vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
 
 # group_Phim: 12
-! 1, https://phim.nguonc.com
+! 1, phim.nguonc.com
 # embed.streamc.xyz/ 16-4-2024
 # embed1.streamc.xyz/ 18-4-2024
 ||img.nguonc.com/public/images/*.gif$image
@@ -161,13 +161,15 @@ vnexpress.net##.box-taitro.box-category
 ||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
 ||linkads.xyz/i9bet/400x300.jpg$image
 phimmoi.today,phimmoinet.lol##.popUpBannerBox
-! 4, https://phimmoi02.net 26-12-2024
+! 4, phimmoi02.net 26-12-2024
 ||aff.bk8vnaf.com/public/html/cms/A20240725090242190.gif$image
 ! 5, Phimmoiz1.net
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
 phimmoiz1.net###popup-giua-man-hinh
-! 6, NguonHD.net, NguonTvb.com 22-6-2024
+! 6, RoPhim 4/2025
+www.rophim.me##div#gpmn-body-load
+! 7, NguonHD.net, NguonTvb.com 22-6-2024
 ||nguontv.com^
 ! https://154.82.109.153/57.html
 ||154.82.109.153^
