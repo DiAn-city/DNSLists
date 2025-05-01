@@ -147,7 +147,7 @@ xoso.com.vn
 xskt.com.vn
 xoso.net
 
-#6. Hagezi Block List: 2025-4-20
+#6. Hagezi Block List: 2025-5-01
 ohay.tv
 danchimviet.info
 cdn.famitaa.com
@@ -155,6 +155,7 @@ data.asp.coca-cola.com
 pagead2.googlesyndication.com
 static.nutscdn.com
 en.caribbeancom.com
+anh.24h.com.vn
 
 #7. Phim.nguonc.com 2025-02-27
 phim.nguonc.com
