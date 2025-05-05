@@ -9,7 +9,7 @@ srtb.msn.com (app Bing bị đóng khi tìm kiếm)
 #2. Cloudflare
 !2a, Cryptomining:
 www.okx.com
-!2b, DGA Domains: 8
+!2b, DGA Domains:
 bullishfarm.app
 timefarm.app
 truyenhdx.com
@@ -20,7 +20,7 @@ i7.bumcheo.info
 !2d, Miscellaneous
 t.co
 viettan.org
-!2e, Newly Seen Domains: 105
+!2e, Newly Seen Domains: 73
 solanix.cc
 hentaivn.chat
 bingtruyentranh.com
