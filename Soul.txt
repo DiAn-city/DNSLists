@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-5-05
+! Version: 2025-5-10
 ! Expires: 1 day
-! Number of entries: 308
+! Number of entries: 311
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -34,10 +34,11 @@ hentaivn.la##.qx_135
 ||bongda12h.com^$third-party
 ! 5, Manhwa18.com
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
-! 6, Sayhentai.ink 2025-5-06
+! 6, Sayhentai.ink 2025-5-10
 ||9bet.net^
 ||kbet.com^
 ||hcimixnajojl.com^
+||cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js$script,domain=sayhentai.ink
 ! SayHentai.fun/ 2023-12-27
 ||039vnd.com^
 ||039vip0.com^
