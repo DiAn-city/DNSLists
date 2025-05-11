@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-5-10
+! Version: 2025-5-11
 ! Expires: 1 day
-! Number of entries: 311
+! Number of entries: 312
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -310,8 +310,9 @@ reality-quest.online##.kofi-button
 ! 18, ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
 
-! SMSOnline.cloud 16-10-2024
+! SmsOnline.cloud 11-5-2025
 www.smsonline.cloud##.block.adsbygoogle
+www.smsonline.cloud##aside.css-17anw56
 ! TrueCaller (2024-01-21)
 www.truecaller.com##.left-0.top-0.z-1000.h-full.w-full.p-4.justify-center.items-center.flex.fixed.modal
 ! Á Châu Bank (2023-11-16)
