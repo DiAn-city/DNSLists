@@ -134,9 +134,11 @@ log-collector.shopee.vn
 adsgram.ai
 api.joker-swap.app
 cdn.tmads.xyz
-#10. TLDs (Top-level domains): 42
+
+#10. TLDs (Top-level domains): 15
 epg.best
 hentaiz.best
+res.subscene.best
 7mcn.bid
 animehay.bid
 meomeotv.bio
