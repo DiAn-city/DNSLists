@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-5-16
+! Version: 2025-5-17
 ! Expires: 1 day
 ! Number of entries: 313
 !
@@ -248,7 +248,7 @@ nhattruyenvn.com###myPopup-game
 ||yougetwhatyoupayfor.net^$script
 ! 4, NetTruyen1975.com 23-4-2025
 ! Shopee onclick:
-nettruyenvnpt.com,nettruyen1975##.ads_insert_shop
+nettruyenvnpt.com,nettruyen1975.com##.ads_insert_shop
 ! 5, NetTruyenXX.com/ Phimmoiaa.com/ 08-5-2024
 ||hello888999.com^
 ||66hello88.com^
