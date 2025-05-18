@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-5-17
+! Version: 2025-5-18
 ! Expires: 1 day
-! Number of entries: 313
+! Number of entries: 315
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -418,9 +418,11 @@ highporn.net##.my-2.container
 lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
 ! 3, Vlxx.cam 2025-5-16 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect=noop.js
-! 4, VlxxTube.pics, Viet69.homes 31-7-2024
+! 4, vlxxmin.com 15-5-2025
+||vlxxmin.com/wp-content/themes/videotube/img/top-banner_6.gif$image
+! 5, VlxxTube.pics, Viet69.homes 31-7-2024
 ||spankbangdl.com^$domain=vlxxtube.pics|viet69.homes
-! 5, Viet69.hair 17-6-2024
+! 6, Viet69.hair 17-6-2024
 viet69.hair###mp-preload-pp-overlay
 ||telegra.ph/file/8cb17c7560cfcb6ab1957.gif$image
 ! 6, Tuoi69.fan 04-01-2025
