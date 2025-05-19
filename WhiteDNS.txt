@@ -1,26 +1,29 @@
 # Title: DNS Allowlist 16
 nextdns.io
 cloudflare-gateway.com
-#1. Bing News image:
+! Bing News image:
 //img-s-msn-com.akamaized.net
 //c.msn.com
 srtb.msn.com (app Bing bị đóng khi tìm kiếm)
 
-#2. Cloudflare
-!2a, Cryptomining:
+! Cloudflare: 6 categories
+! 1. Cryptomining:
 www.okx.com
-!2b, DGA Domains:
+! 2. DGA Domains:
 bullishfarm.app
 timefarm.app
 truyenhdx.com
 pojokmanga.info
-!2c, Malware
+! 3. Malware
 taiwebs.com
 i7.bumcheo.info
-!2d, Miscellaneous
+! 4. Phishing: 19-5-2025
+cuutruyen.net
+chantroimoimedia.com
+! 5. Miscellaneous
 t.co
 viettan.org
-!2e, Newly Seen Domains: 73
+! 6. Newly Seen Domains: 73
 solanix.cc
 hentaivn.chat
 bingtruyentranh.com
@@ -93,8 +96,6 @@ motchillj.tv
 phevkl.vc
 cliphotviet.vip
 truyenhentaivn.xyz
-! 2f, Phishing:
-cuutruyen.net
 
 #3. Download Edge Android:
 app.adjust.com
@@ -191,6 +192,6 @@ jnn-pa.googleapis.com
 //analytics.google.com
 //www.googletagmanager.com
 
-! 16. https://nhattruyenvn.com/
+! 16. NhatTruyenvn.com
 ddntcthcd.com
 kcgsbok.com
