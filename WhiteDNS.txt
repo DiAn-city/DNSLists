@@ -1,4 +1,5 @@
 # Title: DNS Allowlist 16
+! Version: 2025-5-20
 nextdns.io
 cloudflare-gateway.com
 ! Bing News image:
@@ -96,6 +97,8 @@ motchillj.tv
 phevkl.vc
 cliphotviet.vip
 truyenhentaivn.xyz
+nettruyen1975.com
+baotangtruyen32.top
 
 #3. Download Edge Android:
 app.adjust.com
