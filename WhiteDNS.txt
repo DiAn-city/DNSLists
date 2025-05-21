@@ -1,5 +1,5 @@
 # Title: DNS Allowlist 16
-! Version: 2025-5-20
+! Version: 2025-5-21
 nextdns.io
 cloudflare-gateway.com
 ! Bing News image:
@@ -167,6 +167,7 @@ ihentai.vin
 viet69.vin
 desu.win
 xxphim.win
+delivery.activated.win
 !.work 6
 elphago.work
 frame.work
