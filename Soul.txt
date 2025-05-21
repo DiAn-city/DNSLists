@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-5-19
+! Version: 2025-5-21
 ! Expires: 1 day
-! Number of entries: 317
+! Number of entries: 318
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -11,7 +11,7 @@
 ! group_Phim #L151
 ! group_Popup #69
 ! group_Truyen #L227
-! group_XXX #L393
+! group_NSFW #L409
 !
 # Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.art|theundergroundclub.net|hentaivn.tube|hentaivn.news
@@ -406,7 +406,7 @@ forum.duolingo.com##div.ReactModalPortal:nth-of-type(6)
 edu2review.com###mobile-footer
 edu2review.com##.hide-xl-more.flex-center.fluid
 
-! GROUP:XXX
+! GROUP:NSFW (22)
 ! 1, cliphot.uk 14-9-2024
 ||qcvip.xyz/wp-content/uploads/2024/09/i999xx.gif$image
 cliphot.uk###mp-preload-popup-overlay
@@ -414,27 +414,29 @@ cliphot.uk###mp-preload-popup-overlay
 highporn.net##.my-2.container
 ! 3, khieudam.club/ 28-01-2024
 ||xxxads.info^$image
-! 3, 04-3-2024
+! 4, KoreanBJ.club 21-5-2025
+koreanbj.club##.inPlayerGGdiv
+! 5, 04-3-2024
 lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
-! 3, Vlxx.cam 2025-5-16 (uBlock filters – Ads)
+! 6, Vlxx.cam 2025-5-16 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect=noop.js
-! 4, vlxxmin.com 15-5-2025
+! 7, vlxxmin.com 15-5-2025
 ||vlxxmin.com/wp-content/themes/videotube/img/top-banner_6.gif$image
-! 5, VlxxTube.pics, Viet69.homes 31-7-2024
+! 8, VlxxTube.pics, Viet69.homes 31-7-2024
 ||spankbangdl.com^$domain=vlxxtube.pics|viet69.homes
-! 6, Viet69.hair 17-6-2024
+! 9, Viet69.hair 17-6-2024
 viet69.hair###mp-preload-pp-overlay
 ||telegra.ph/file/8cb17c7560cfcb6ab1957.gif$image
-! 6, Tuoi69.fan 04-01-2025
+! 10, Tuoi69.fan 04-01-2025
 tuoi69.fan##body > .float-ckgiua
 ||tuoi69.today/wp-content/uploads/2021/12/pop-top2mb-tuoi69-3.jpg$image
-! 7, ThienVaDia.vip
+! 11, ThienVaDia.vip
 thienvadia.vip##.js-notices.notices--block.notices
-! 8, MePhim18.com/ 2023-01-05
+! 12, MePhim18.com/ 2023-01-05
 mephim18.com###backgroundPopupp
 ||media.discordapp.net/attachments/918179438494101527/1*.gif$image,domain=mephim18.com
 ||cdn.statically.io/img/truyenvn.tv/wp-content/uploads/2021/07/banner-five88.gif$image
-! 9, Heovl.best, Vlxx.sale 29-7-2024
+! 13, Heovl.best, Vlxx.sale 29-7-2024
 /wp-content/uploads/2024/05/I9-popup-400x300-1.png$image,domain=heovl.best|vlxx.sale
 /wp-content/uploads/pum/pum-site-scripts.js$script,domain=heovl.best|vlxx.sale
 ||heovl.best/wp-content/uploads/2024/07/88-go-.com728-90.gif$image
@@ -446,7 +448,7 @@ mephim18.com###backgroundPopupp
 heovl.best,vlxx.sale##.video-js.tvc-video
 ||vjs.zencdn.net^$domain=heovl.best
 ||code.jquery.com^$domain=heovl.best
-! 10, PublicAgent.com 19-5-2025
+! 14, PublicAgent.com 19-5-2025
 ||app-assets.project1content.com/tour/@one/blocks/async/DisclaimerBlock.add5a756.js$script
 ||app-assets.project1content.com/tour/@one/blocks/async/CatfishBlock.97b1675f.js$script
 www.publicagent.com##.iwCJUI.sc-3hrznp-2
@@ -455,11 +457,11 @@ www.publicagent.com##.iwCJUI.sc-3hrznp-2
 !||static-ma-ht.project1content.com/static1/@one/blocks/async/CatfishBlock.*.js$script
 !||static-ma-ht.project1content.com/static1/@one/blocks/async/ImageBlock.*.js$script
 !publicagent.com##[class="sc-8lvev9-1 ikiYEr"]
-! 11, FapDiner.com/ 21-7-2024
+! 15, FapDiner.com/ 21-7-2024
 ||arzruqmougxvdv.com^
-! 12, TheFap.net/ 2023-12-30
+! 16, TheFap.net/ 2023-12-30
 thefap.net###popupContactU
-! 13, MeoMeotv.pro/ 07-6-2024
+! 17, MeoMeotv.pro/ 07-6-2024
 sancoxanh.com
 az888v17.com
 meomeotv.pro##.popUpBannerBox
@@ -467,18 +469,18 @@ meomeotv.pro##.ads-inside-video
 ||a1.meomeotv.biz/mmtv/image/c6425dded6173147210b6a6e79ad74dadc5afdeb.webp$image
 ||a1.meomeotv.biz/mmtv/image/2b97eea091acd409c0a3d946d4349018805ae6ca.webp$image
 ||a1.meomeotv.biz/mmtv/image/473109878aaa2c940ecae015b4660a29cddd609e.webp$image
-! 14, Xsub.cc (2023-10-30), xsub.tv (2024-02-06)
+! 18, Xsub.cc (2023-10-30), xsub.tv (2024-02-06)
 ||xsub.tv/js/xsub_pu_25.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
-! 15, SexSub.guru/ 23-7-2024
+! 19, SexSub.guru/ 23-7-2024
 ||sexsub.baby/_1/i9b.gif$image
-! 16, SexHD.javhay.click/ 23-7-2024
+! 20, SexHD.javhay.click/ 23-7-2024
 ||sexsub.guru/_1/88vn.gif$image
-! 17, SexHD89.com/ 30-7-2024
+! 21, SexHD89.com/ 30-7-2024
 !||demo123.info/vip123/250.html$subdocument
 ||demo123.info/vip123/
 ||demo123.info/preload/vip.js$script,domain=sexhd89.com
-! 18, Vn.SexVietNam.Sex/ 01-8-2024
+! 22, Vn.SexVietNam.Sex/ 01-8-2024
 ||vn.sexvietnam.sex/ads/ads.js$script
 ! END
 
