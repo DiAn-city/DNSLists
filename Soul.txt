@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-5-21
+! Version: 2025-5-24
 ! Expires: 1 day
 ! Number of entries: 318
 !
@@ -448,9 +448,9 @@ mephim18.com###backgroundPopupp
 heovl.best,vlxx.sale##.video-js.tvc-video
 ||vjs.zencdn.net^$domain=heovl.best
 ||code.jquery.com^$domain=heovl.best
-! 14, PublicAgent.com 19-5-2025
-||app-assets.project1content.com/tour/@one/blocks/async/DisclaimerBlock.add5a756.js$script
-||app-assets.project1content.com/tour/@one/blocks/async/CatfishBlock.97b1675f.js$script
+! 14, PublicAgent.com 24-5-2025
+||app-assets.project1content.com/tour/@one/blocks/async/DisclaimerBlock.*.js$script
+||app-assets.project1content.com/tour/@one/blocks/async/CatfishBlock.*.js$script
 www.publicagent.com##.iwCJUI.sc-3hrznp-2
 !02-10-2024
 !||static-ma-ht.project1content.com/static1/@one/blocks/async/DisclaimerBlock.*.js$script
