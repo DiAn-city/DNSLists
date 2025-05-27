@@ -1,5 +1,5 @@
 # Title: DNS Allowlist 16
-! Version: 2025-5-21
+! Version: 2025-5-28
 nextdns.io
 cloudflare-gateway.com
 ! Bing News image:
@@ -24,8 +24,9 @@ chantroimoimedia.com
 ! 5. Miscellaneous
 t.co
 viettan.org
-! 6. Newly Seen Domains: 73
+! 6. Newly Seen Domains: 74
 solanix.cc
+lh1.strtvh01.cfd
 hentaivn.chat
 bingtruyentranh.com
 cdn.vercel-cdn.com
