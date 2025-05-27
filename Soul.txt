@@ -19,6 +19,7 @@
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|chichnhau.me|lonxxx.com|pheclip.net|sayhentai.pro
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 lonxxx.com,pheclip.com,pheclip.net,chichnhau.me###popup
+phimmoi.today,phimmoinet.lol,meomeotv.pro##.popUpBannerBox
 
 # Group HENTAI: 7
 ! 1, Hentai247.vip 04-9-2024
@@ -165,7 +166,6 @@ vnexpress.net##.box-taitro.box-category
 ||i.imgur.com/HG2ebaq.gif$image
 ||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
 ||linkads.xyz/i9bet/400x300.jpg$image
-phimmoi.today,phimmoinet.lol##.popUpBannerBox
 ! 4, phimmoi02.net 26-12-2024
 ||aff.bk8vnaf.com/public/html/cms/A20240725090242190.gif$image
 ! 5, Phimmoiz1.net
@@ -465,7 +465,6 @@ thefap.net###popupContactU
 ! 18, MeoMeotv.pro/ 07-6-2024
 sancoxanh.com
 az888v17.com
-meomeotv.pro##.popUpBannerBox
 meomeotv.pro##.ads-inside-video
 ||a1.meomeotv.biz/mmtv/image/c6425dded6173147210b6a6e79ad74dadc5afdeb.webp$image
 ||a1.meomeotv.biz/mmtv/image/2b97eea091acd409c0a3d946d4349018805ae6ca.webp$image
