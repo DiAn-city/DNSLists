@@ -1,4 +1,3 @@
-```ruby
 # Title: DNS Allowlist 16
 ! Version: 2025-5-28
 nextdns.io
@@ -203,4 +202,3 @@ jnn-pa.googleapis.com
 ! 16. NhatTruyenvn.com
 ddntcthcd.com
 kcgsbok.com
-```
