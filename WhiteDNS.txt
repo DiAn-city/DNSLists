@@ -1,5 +1,5 @@
 # Title: DNS Allowlist 16
-! Version: 2025-5-28
+! Version: 2025-6-02
 nextdns.io
 cloudflare-gateway.com
 ! Bing News image:
@@ -24,7 +24,7 @@ chantroimoimedia.com
 ! 5. Miscellaneous
 t.co
 viettan.org
-! 6. Newly Seen Domains: 76
+! 6. Newly Seen Domains: 77
 solanix.cc
 lh1.strtvh01.cfd
 hentaivn.chat
@@ -72,6 +72,7 @@ hentaiayame.net
 manga-sehri.net
 manatoki461.net
 nettruyenzzz.net
+phimmoi11.net
 phimmoichillv.net
 tempestscans.net
 thapcam22.net
