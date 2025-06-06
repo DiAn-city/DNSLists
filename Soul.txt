@@ -130,8 +130,8 @@ thenextweb.com##.lg\:hidden.c-share
 theoldreader.com##.banner
 ! 18, Thể thao 24/7
 thethao247.vn##.explus_related_1404022217_left.explus_related_1404022217.expNoEdit
-! 18, ThoiBao.de 16-9-2024
-thoibao.de##.lazyloaded.entered.size-full.wp-image-131617.alignnone
+! 19, ThoiBao.de 06-6-2025
+thoibao.de##.thoib-sau-noi-dung
 ! 20, TinTuc3mien.com/ 09-6-2024
 www.tintuc3mien.com##.backdrop-popup
 www.tintuc3mien.com###SECTION_POPUP
