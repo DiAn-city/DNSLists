@@ -1,5 +1,5 @@
 # Title: DNS Allowlist 16
-! Version: 2025-6-09
+! Version: 2025-6-12
 nextdns.io
 cloudflare-gateway.com
 ! Bing News image:
@@ -24,7 +24,7 @@ chantroimoimedia.com
 ! 5. Miscellaneous
 t.co
 viettan.org
-! 6. Newly Seen Domains: 70
+! 6. Newly Seen Domains: 71
 cdn-vn2.hnmxntgn.com
 www.ruya-manga.com
 themjav.com
@@ -92,6 +92,8 @@ nettruyen1905.com
 doctruyen3qui10.pro
 ! 02-6-2025
 newtruyenhot.org
+! 12-6-2025
+newtruyentranh1.com
 
 #3. Download Edge Android:
 app.adjust.com
