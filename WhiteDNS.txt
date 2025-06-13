@@ -1,5 +1,5 @@
 # Title: DNS Allowlist 16
-! Version: 2025-6-12
+! Version: 2025-6-13
 nextdns.io
 cloudflare-gateway.com
 ! Bing News image:
@@ -16,7 +16,6 @@ timefarm.app
 truyenhdx.com
 pojokmanga.info
 ! 3. Malware
-taiwebs.com
 i7.bumcheo.info
 ! 4. Phishing: 19-5-2025
 cuutruyen.net
