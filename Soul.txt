@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-6-09
+! Version: 2025-6-15
 ! Expires: 1 day
 ! Number of entries: 312
 !
@@ -417,8 +417,8 @@ highporn.net##.my-2.container
 ||xxxads.info^$image
 ! 4, KoreanBJ.club 21-5-2025
 koreanbj.club##.inPlayerGGdiv
-! 6, Rphang.vc 27-5-2025
-rphang.vc##.samVideoOverlay
+! 6, Rphang.vet 02-6-2025
+rphang.vet##.samVideoOverlay
 ! 7, Vlxx.cam 2025-5-16 (uBlock filters – Ads)
 /aas/r45d/vki/*$script,redirect=noop.js
 ! 8, vlxxmin.com 15-5-2025
