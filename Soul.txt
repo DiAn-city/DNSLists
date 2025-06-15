@@ -21,6 +21,10 @@
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 phimmoi.today,phimmoinet.lol,meomeotv.pro##.popUpBannerBox
 
+! Chế độ tối:
+||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
+||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
+
 # Group HENTAI: 7
 ! 1, Hentai247.vip 04-9-2024
 ||cdn.hentai247.vip//banner
@@ -486,12 +490,8 @@ meomeotv.pro##.ads-inside-video
 
 ! ZingMp3.vn 22-4-2025 
 ||zingmp3.vn/api/v2/promotion/get/zones$xhr
-chiasenhac.vn##.infor_main [href="/chia-se-nhac-vip.html"]
-tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
 
-! Chế độ tối:
-||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
-||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
+tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
 
 d3ward.github.io##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
