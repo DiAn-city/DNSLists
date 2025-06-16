@@ -1,11 +1,12 @@
 # Title: DNS Allowlist 16
-! Version: 2025-6-13
+! Version: 2025-6-16
 nextdns.io
 cloudflare-gateway.com
 ! Bing News image:
 //img-s-msn-com.akamaized.net
 //c.msn.com
-srtb.msn.com (app Bing bị đóng khi tìm kiếm)
+! app Bing bị đóng khi tìm kiếm
+srtb.msn.com
 
 ! Cloudflare: 6 categories
 ! 1. Cryptomining:
