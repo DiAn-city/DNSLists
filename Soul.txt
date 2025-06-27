@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-6-15
+! Version: 2025-6-27
 ! Expires: 1 day
-! Number of entries: 312
+! Number of entries: 315
 !
 ! group_Hentai #22
 ! group_HoatHinh #L57
@@ -123,6 +123,8 @@ lag.vn##.has-pad--vert--ultra.article--one-column > .banner
 www.msn.com##.accent.article-cont-read-button-on-app
 ! MSN Sponsored Content 19-3-2024
 www.msn.com##end-of-content-block
+! Bing Rewards 20-6-2025
+@@||www.bing.com/search?$removeparam=FORM
 ! 14, Báo phụ nữ
 phunutoday.vn##.checknotclass_mb
 ! 15, PhuotHanoi
