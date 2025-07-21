@@ -178,8 +178,6 @@ vnexpress.net##.box-taitro.box-category
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
 phimmoiz1.net###popup-giua-man-hinh
-! 6, RoPhim 4/2025
-www.rophim.me##div#gpmn-body-load
 ! 7, NguonHD.net, NguonTvb.com 22-6-2024
 ||nguontv.com^
 ! https://154.82.109.153/57.html
