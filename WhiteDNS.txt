@@ -1,6 +1,6 @@
-# Title: DNS Allowlist 16
-! Version: 2025-6-16
+! Version: 2025-8-15
 nextdns.io
+cloudflare-dns.com
 cloudflare-gateway.com
 ! Bing News image:
 //img-s-msn-com.akamaized.net
