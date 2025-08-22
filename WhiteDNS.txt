@@ -1,4 +1,4 @@
-! Version: 2025-8-21
+! Version: 2025-8-22
 nextdns.io
 cloudflare-dns.com
 cloudflare-gateway.com
@@ -18,10 +18,11 @@ truyenhdx.com
 pojokmanga.info
 ! 3. Malware
 i7.bumcheo.info
-! 4. Phishing: 19-5-2025
+! 4. Phishing: 22-8-2025
 cuutruyen.net
 chantroimoimedia.com
 booktoki468.com
+anhvip.xyz
 ! 5. Miscellaneous
 t.co
 viettan.org
