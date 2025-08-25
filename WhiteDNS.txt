@@ -1,4 +1,4 @@
-! Version: 2025-8-22
+! Version: 2025-8-25
 nextdns.io
 cloudflare-dns.com
 cloudflare-gateway.com
@@ -8,25 +8,31 @@ cloudflare-gateway.com
 ! app Bing bị đóng khi tìm kiếm:
 ! srtb.msn.com
 
-! Cloudflare: 6 categories
-! 1. Cryptomining:
+! 1. Cloudflare:
+! Cryptomining:
 www.okx.com
-! 2. DGA Domains:
+! DGA Domains:
 bullishfarm.app
 timefarm.app
 truyenhdx.com
 pojokmanga.info
-! 3. Malware
+! Malware
 i7.bumcheo.info
-! 4. Phishing: 22-8-2025
+! Phishing: 22-8-2025
 cuutruyen.net
 chantroimoimedia.com
-booktoki468.com
-anhvip.xyz
-! 5. Miscellaneous
+! Miscellaneous
 t.co
 viettan.org
-! 6. Newly Seen Domains: 64
+
+! 2. FlashStart
+! Phishing
+booktoki468.com
+anhvip.xyz
+! Malicious activity
+revolt.vn
+
+! 3. Newly Seen Domains: 64
 cdn-vn2.hnmxntgn.com
 www.ruya-manga.com
 themjav.com
