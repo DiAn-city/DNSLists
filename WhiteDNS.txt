@@ -128,14 +128,11 @@ static.nutscdn.com
 en.caribbeancom.com
 anh.24h.com.vn
 
-#7. Hagezi tif: 05-5-2025
-chantroimoimedia.com
-
-#8, MissAVtv.com 17-8-2025
+#7, MissAVtv.com 17-8-2025
 ! Adblock Detected
 www3.doubleclick.net
 
-#9, Phim.nguonc.com 2025-02-27
+#8, Phim NguonC 2025-02-27
 phim.nguonc.com
 img.streamvd.club
 streamc.xyz
@@ -148,13 +145,13 @@ adsgram.ai
 api.joker-swap.app
 cdn.tmads.xyz
 
-rophim.me
+#9, rophim.me
 ! RoPhim xem-chung-Video 30-5-2025
 hsvtslcvn.com
 ! RoPhim xem-chung-Chat 30-5-2025
 w2g.brainrottttt.site
 
-#11. TLDs (Top-level domains): 15
+#10, TLDs (Top-level domains): 15
 epg.best
 hentaiz.best
 res.subscene.best
