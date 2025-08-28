@@ -1,12 +1,9 @@
-! Version: 2025-8-25
-nextdns.io
-cloudflare-dns.com
-cloudflare-gateway.com
+! Version: 2025-8-28
 ! Bing News image:
-//img-s-msn-com.akamaized.net
-//c.msn.com
+!! img-s-msn-com.akamaized.net
+!! c.msn.com
 ! app Bing bị đóng khi tìm kiếm:
-! srtb.msn.com
+!! srtb.msn.com
 
 ! 1. Cloudflare:
 ! Cryptomining:
@@ -25,7 +22,13 @@ chantroimoimedia.com
 t.co
 viettan.org
 
-! 2. FlashStart
+! 2. DNS
+cloudflare-dns.com
+cloudflare-gateway.com
+flashstart.com
+nextdns.io
+
+! 3. FlashStart
 ! Phishing
 booktoki468.com
 anhvip.xyz
