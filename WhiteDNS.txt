@@ -1,4 +1,4 @@
-! Version: 2025-8-28
+! Version: 2025-9-1
 ! Bing News image:
 !! img-s-msn-com.akamaized.net
 !! c.msn.com
@@ -34,9 +34,8 @@ anhvip.xyz
 ! Malicious activity
 revolt.vn
 
-! 3. Newly Seen Domains: 64
+! 3. Newly Seen Domains:
 cdn-vn2.hnmxntgn.com
-www.ruya-manga.com
 themjav.com
 hentaivn.cx
 zingtruyen.fan
