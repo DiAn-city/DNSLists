@@ -8,10 +8,10 @@
 ! 1. Cloudflare:
 ! Cryptomining
 www.okx.com
-! DGA Domains
+! DGA Domains:
+! (Gaming: Chơi game)
 bullishfarm.app
 timefarm.app
-truyenhdx.com
 ! Malware (03-9-2025)
 clbphimxua.com
 i7.bumcheo.info
