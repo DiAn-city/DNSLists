@@ -1,4 +1,4 @@
-! Version: 2025-9-1
+! Version: 2025-9-3
 ! Bing News image:
 !! img-s-msn-com.akamaized.net
 !! c.msn.com
@@ -6,15 +6,16 @@
 !! srtb.msn.com
 
 ! 1. Cloudflare:
-! Cryptomining:
+! Cryptomining
 www.okx.com
-! DGA Domains:
+! DGA Domains
 bullishfarm.app
 timefarm.app
 truyenhdx.com
-! Malware
+! Malware (03-9-2025)
+clbphimxua.com
 i7.bumcheo.info
-! Phishing: 22-8-2025
+! Phishing (22-8-2025)
 cuutruyen.net
 chantroimoimedia.com
 ! Miscellaneous
