@@ -5,17 +5,18 @@
 ! app Bing bị đóng khi tìm kiếm:
 !! srtb.msn.com
 
-! 1. Cloudflare:
-! Cryptomining
+! 1. Cloudflare
+! Cryptomining: Các trang web khai thác tiền điện tử bằng cách chiếm dụng tài nguyên máy tính của người dùng.
 www.okx.com
-! DGA Domains:
-! (Gaming: Chơi game)
+! DGA Domains: "Các tên miền được phát hiện là do các thuật toán có trong phần mềm độc hại tạo ra"
+! +Gaming: Chơi game
 bullishfarm.app
 timefarm.app
 ! Malware (03-9-2025)
 clbphimxua.com
 i7.bumcheo.info
 ! Phishing (22-8-2025)
+! *Các tên miền được biết đến là có khả năng đánh cắp thông tin cá nhân*
 cuutruyen.net
 chantroimoimedia.com
 ! Miscellaneous
