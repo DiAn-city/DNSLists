@@ -2,8 +2,13 @@
 ! Bing News image:
 !! img-s-msn-com.akamaized.net
 !! c.msn.com
-! app Bing bị đóng khi tìm kiếm:
+! App Bing bị đóng khi tìm kiếm:
 !! srtb.msn.com
+! Shopee load ảnh?
+!! log-collector.shopee.vn
+! ZaloPay Android:
+!! analytics.google.com
+!! www.googletagmanager.com
 
 ! Cloudflare
 ! 1.Cryptomining: "Các trang web khai thác tiền điện tử bằng cách chiếm dụng tài nguyên máy tính của người dùng."
@@ -21,6 +26,7 @@ i7.bumcheo.info
 ! 4.Phishing: "Các tên miền được biết đến là có khả năng đánh cắp thông tin cá nhân."
 cuutruyen.net
 chantroimoimedia.com
+! +> CIPA Filter; News & Media; Politics, Advocacy, and Government-Related
 ! 5.Miscellaneous: "Các trang web không nằm trong danh mục bảo mật và nội dung được liệt kê."
 t.co
 viettan.org
@@ -34,9 +40,12 @@ nextdns.io
 ! 3. FlashStart
 ! Phishing
 booktoki468.com
-anhvip.xyz
+!+Adult Themes, CIPA Filter
+anhvip.xyz 
+!+Content Servers
 ! Malicious activity
 revolt.vn
+! +CIPA Filter, Gambling
 
 ! 3. Newly Seen Domains:
 cdn-vn2.hnmxntgn.com
@@ -95,21 +104,14 @@ cliphotviet.vip
 truyenhentaivn.xyz
 nettruyen1975.com
 baotangtruyen32.top
-! 17-5-2025
-nettruyen1905.com
-! 20-5-2025
-doctruyen3qui10.pro
-! 02-6-2025
-newtruyenhot.org
-! 12-6-2025
-newtruyentranh1.com
-! 16-6-2025
-m.ffvvv.xyz
 
-#3. Download Edge Android:
+! 3. Download Edge Android:
 app.adjust.com
-#4. Download LienQuan Mobile:
+!+Content Servers
+
+! 4. Download LienQuan Mobile:
 app.appsflyer.com
+!+Business, Technology
 
 #5. Gambling: 6
 kqxs.vn
@@ -121,8 +123,10 @@ xoso.net
 
 #6. Hagezi Block List: 2025-5-01
 ohay.tv
+!+Forums
 danchimviet.info
 cdn.famitaa.com
+!+Business
 data.asp.coca-cola.com
 pagead2.googlesyndication.com
 static.nutscdn.com
@@ -132,6 +136,7 @@ anh.24h.com.vn
 #7, MissAVtv.com 17-8-2025
 ! Adblock Detected
 www3.doubleclick.net
+!+Advertisements
 
 #8, Phim NguonC 2025-02-27
 phim.nguonc.com
@@ -139,8 +144,6 @@ img.streamvd.club
 streamc.xyz
 freedoihoiccgi.top
 sv1.streamvda.top
-#8. Shopee load ảnh?
-log-collector.shopee.vn
 #9. Telegram Game:
 adsgram.ai
 api.joker-swap.app
@@ -152,7 +155,7 @@ hsvtslcvn.com
 ! RoPhim xem-chung-Chat 30-5-2025
 w2g.brainrottttt.site
 
-#10, TLDs (Top-level domains): 15
+! 10, TLDs (Top-level domains): 15
 epg.best
 hentaiz.best
 res.subscene.best
@@ -197,17 +200,14 @@ mydressupdarling.online
 smartarget.online
 toptruyenii.online
 
-#11. Xiaomi device updates:
+! 11. Xiaomi device updates:
 update.intl.miui.com
-#12. Xiaomi khảo sát
+! 12. Xiaomi khảo sát
 m.beehive.in.intl.miui.com
-#13. Xiaomi USB debugging (Security settings):
+! 13. Xiaomi USB debugging (Security settings):
 srv.sec.intl.miui.com
-#14. YouTube web không load video:
+! 14. YouTube web không load video:
 jnn-pa.googleapis.com
-#15. ZaloPay Android:
-//analytics.google.com
-//www.googletagmanager.com
 
 ! 16. NhatTruyenvn.com
 ddntcthcd.com
