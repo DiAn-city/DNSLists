@@ -99,7 +99,6 @@ freedoihoiccgi.top
 sv1.streamvda.top
 adsgram.ai
 api.joker-swap.app
-cdn.tmads.xyz
 hsvtslcvn.com
 w2g.brainrottttt.site
 epg.best
