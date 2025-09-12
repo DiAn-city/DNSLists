@@ -32,6 +32,7 @@ da88vn.win
 gem.win
 gemwin.vip
 sun.win
+sunwin.pro
 vip79.win
 vip79.top
 zo10.win
