@@ -129,7 +129,6 @@ hdzonline.pro
 phimzhd.pro
 phimtronbo.pro
 phan2.pro
-baodientu.online
 bitly.group
 ads.6789live.com
 game.b52.mobi
