@@ -102,4 +102,3 @@ hdzonline.pro
 phimtronbo.pro
 bitly.group
 ads.6789live.com
-game.b52.mobi
