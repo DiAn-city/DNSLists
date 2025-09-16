@@ -42,7 +42,6 @@ hentai247.vip##.ads_popup
 ! 6, Sayhentai.ink 2025-5-10
 ||cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js$script,domain=sayhentai.ink
 ! SayHentai.fun/ 2023-12-27
-||039vnd.com^
 ||039vip0.com^
 ||rw8899.com^
 ||uk88.top^
