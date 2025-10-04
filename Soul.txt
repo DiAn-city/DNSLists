@@ -257,9 +257,9 @@ nettruyenvnpt.com,nettruyen1975.com##.ads_insert_shop
 ! 9, TuTienTruyen5.xyz 18-6-2024
 ||tutientruyen5.xyz/app/manga/uploads/72890.gif$image
 ||tutientruyen5.xyz/app/manga/uploads/400300.jpg$image
-! 10, TruyenqqViet.com/ 19-7-2024
-truyenqqpro.com##.mobile-banner, .catfish-bottom-mobile
-truyenqqpro.com##div[id^="image_popup_"]
+! 10, https://truyenqqgo.com (16/6/2025)
+! mấy link cuối trang:
+truyenqqgo.com##.dark > .div_middle > .right > ul
 ||truyenvua.xyz/qc-new/*$image
 ||aqnobnhcod.com^
 ! 11, VlogTruyen
