@@ -1,8 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-9-01
+! Version: 2025-10-04
 ! Expires: 1 day
-! Number of entries: 315
+! Number of entries: 306
 !
 ! group_Hentai #28
 ! group_HoatHinh #L67
@@ -35,8 +35,6 @@ hentai247.vip##.ads_popup
 ||hentaivn.cx/banner_image/banners/33-174773*.gif$image
 ! 4, LxManga.net/ 2023-07-27
 ||l.linklyhq.com/l/1oOoo
-||xemphim8k.com^$third-party
-||bongda12h.com^$third-party
 ! 5, Manhwa18.com
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 ! 6, Sayhentai.ink 2025-5-10
