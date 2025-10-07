@@ -2,18 +2,7 @@
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
 ! Version: 2025-10-07
 ! Expires: 1 day
-! Number of entries: 309
 !
-! group_Hentai #28
-! group_HoatHinh #L67
-! group_Novel #L80
-! group_News #L82
-! group_Phim #L151
-! group_Popup #69
-! group_Truyen #L228
-! group_NSFW #L409
-!
-# Chung rule
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.art|theundergroundclub.net|hentaivn.tube|hentaivn.news
 ||i.imgur.com/*.gif$domain=phimmoi11.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|sayhentai.pro
@@ -146,25 +135,20 @@ vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
 vnexpress.net##.wrap-hd-adblock
 vnexpress.net##.button-adblock
 vnexpress.net##.box-taitro.box-category
-! Test VnExpress bị ko thể vuốt:
-!vnexpress.net##.center.section
-!vnexpress.net###BanCoTheQuanTam_PinTop_Search_Greater10Percent
-!vnexpress.net###BanCoTheQuanTam_PinBottom_Search_Less10Percent
-
-# group_Phim: 12
-! 1, phim.nguonc.com (embed.streamc.xyz) 04-5-2025
+! Phim
+||phimsub.com/push/t97t2x/kkpp8zl8.gif$image
 ||img.nguonc.com/public/images/*.gif$image
 ||bf.333xbet.com/18881999/video888.mp4
-! 2, phimbuon.net 2025-4-15
+! 3. phimbuon.net 2025-4-15
 ||phimbuon.net/Content/ads_preload.js$script
 ||xemphimhay247.com/Files/Ads/i9-720x90.gif
-! 3, Phimmoi.today, Phimmoinet.lol
+! 4. Phimmoi.today, Phimmoinet.lol
 ||i.imgur.com/HG2ebaq.gif$image
 ||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
 ||linkads.xyz/i9bet/400x300.jpg$image
-! 4, phimmoi02.net 26-12-2024
+! 5. phimmoi02.net 26-12-2024
 ||aff.bk8vnaf.com/public/html/cms/A20240725090242190.gif$image
-! 5, Phimmoiz1.net
+! 6. Phimmoiz1.net
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
 phimmoiz1.net###popup-giua-man-hinh
