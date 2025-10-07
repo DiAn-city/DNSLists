@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
 ! Version: 2025-10-04
 ! Expires: 1 day
-! Number of entries: 303
+! Number of entries: 309
 !
 ! group_Hentai #28
 ! group_HoatHinh #L67
@@ -10,7 +10,7 @@
 ! group_News #L82
 ! group_Phim #L151
 ! group_Popup #69
-! group_Truyen #L227
+! group_Truyen #L228
 ! group_NSFW #L409
 !
 # Chung rule
@@ -231,7 +231,14 @@ cloudflare.com#@#.qc
 www.hbmanga.com##.comic-contain > div.mobadsq
 www.hbmanga.com###sticky_ads_frame_a
 # Vietnamese: 13
-! 1, NhatTruyenvn.com 27-6-2024
+! 1. Newtruyentranh3.com 07/10/2025
+||sacodnajroh.com^$removeparam=rhr
+||sacodnajroh.com^$removeparam=vzj
+||sacodnajroh.com^$removeparam=ljr
+||sacodnajroh.com^$removeparam=bwy
+||sacodnajroh.com^$removeparam=ufe
+||sacodnajroh.com^$removeparam=ouf
+! 2. NhatTruyenvn.com 27-6-2024
 nhattruyenvn.com###myPopup-game
 ! 2, NetTruyen.com 03-3-2023
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
@@ -252,7 +259,7 @@ nettruyenvnpt.com,nettruyen1975.com##.ads_insert_shop
 ! 9, TuTienTruyen5.xyz 18-6-2024
 ||tutientruyen5.xyz/app/manga/uploads/72890.gif$image
 ||tutientruyen5.xyz/app/manga/uploads/400300.jpg$image
-! 10, https://truyenqqgo.com (16/6/2025)
+! 10, Truyenqqgo.com (16/6/2025)
 ! mấy link cuối trang:
 truyenqqgo.com##.dark > .div_middle > .right > ul
 ||truyenvua.xyz/qc-new/*$image
