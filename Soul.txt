@@ -155,16 +155,11 @@ bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 ! 12, MotChillTvn.com/ 06-8-2024
 ||raw.githubusercontent.com/mrcotb/aadriver/main/*new-607x75.gif$image
-
-! voz.vn/t/tong-hop-nhung-addon-chat-cho-firefox-chromium.682181/post-32472237
 ||polyfill.io^
-
-! Group_Popup: 3
 ||s.shopee.vn^
 ||s.lazada.vn^
 ||shope.ee^
 ||shopee.vn^$doc
-# 1, Redirect Shopee (13-6-2024)
 ||baodientu.online^
 ||fecabookvn.com^
 ||fecabookz.com^
@@ -178,12 +173,9 @@ motchill.net##.container > .film-note
 ||vn-express.net^
 ||watchtv.fun^
 play.anh.moe##.nsfw-overlay
-# 2, Popup đăng nhập Google (01.02.2024)
+maytinhgiaphat.vn###hn-aff-overlay
 ||accounts.google.com/gsi/iframe/select$subdocument
-# 3, Popup Cookie "www-bbc-com.translate.goog/vietnamese?_x_tr_sl=auto&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp" (24-4-2024)
 www-bbc-com.translate.goog##.eh3hs0a4.bbc-1f1v9xr
-
-! ##.qc (ABPVN) 24-7-2024
 cloudflare.com#@#.qc
 
 ! YouTube Mobile 15-8-2024
