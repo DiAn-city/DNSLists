@@ -31,7 +31,6 @@ sayhentai.pro##.float-ck-center-lt
 ||acmorhmiwtit.com^
 animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
-s2.truyentot.com
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
