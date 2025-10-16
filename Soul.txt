@@ -6,32 +6,18 @@
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.art|theundergroundclub.net|hentaivn.tube|hentaivn.news
 ||i.imgur.com/*.gif$domain=phimmoi11.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|sayhentai.pro
-! Chặn thẩm mỹ: 3
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 phimmoi.today,phimmoinet.lol,meomeotv.pro##.popUpBannerBox
-
-! Chế độ tối:
 ||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
-
-# Group HENTAI: 7
-! 1, Hentai247.vip 04-9-2024
 ||cdn.hentai247.vip//banner
 hentai247.vip##.ads_popup
-! 2, Hentaicube.net 21-8-2024
 ||cdn.hentaicube.net/qcs/*.gif$image 
-! 3, hentaivn.cx 01-9-2025
 ||hentaivn.cx/banner_image/banners/33-174773*.gif$image
-! 4, LxManga.net/ 2023-07-27
 ||l.linklyhq.com/l/1oOoo
-! 5, Manhwa18.com
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
-! 6, Sayhentai.ink 2025-5-10
 ||cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js$script,domain=sayhentai.ink
-! SayHentai.fun/ 2023-12-27
-||sayhentai.fun/img/
 ||ak-d.tripcdn.com/images/*.gif$domain=sayhentai.pro
-! SayHentai.pro 2024-3-15
 sayhentai.pro##.ads_popup.hidden-ads
 ||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.pro
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
@@ -43,14 +29,9 @@ sayhentai.pro##.float-ck-center-lt
 ||gwemwyqugg.com^
 ||uk88.com^
 ||acmorhmiwtit.com^
-
-# Group_HoatHinh: 4
-! 1, Animetvn.com
 animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
-! 2, hhtq3d.com 13-6-2024
 s2.truyentot.com
-! 3, VuiAnime.net
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
