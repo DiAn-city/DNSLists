@@ -16,11 +16,12 @@ cloudflare-dns.com
 cloudflare-gateway.com
 flashstart.com
 nextdns.io
+rophim.me
+revolt.vn
 booktoki468.com
 anhvip.xyz
-revolt.vn
 browserleaks.com
-rophim.me
+addr.tools
 cdn-vn2.hnmxntgn.com
 themjav.com
 vntop.icu
