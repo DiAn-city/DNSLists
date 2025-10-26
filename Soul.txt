@@ -285,24 +285,18 @@ goonlinetools.com##.py-1
 www-ghacks-net.translate.goog##div.box-banner
 tr-ex.me##.ads
 dictionary.cambridge.org##.topslot-container.tz0
-! DOL Dictionary (2024-02-06)
 tudien.dolenglish.vn##.modal-portal-full-screen.fjPCXk.ModalPortalFullScreen__Container-sc-8ytn78-0
-! Từ điển Hán Nôm
 hvdic.thivien.net##.notification
-! 2024-4-21 www.o-study.net
 www.o-study.net###POPUP759
 www.o-study.net###IMAGE751
-
-! APK
+hanzii.net##app-ad-warning-popup
 apkmirror.com##.membership-text.advertisement-text
 gocmod.com##.ya-share2_inited.ya-share2
 forum.gocmod.com##.js-bottomFixTarget.u-bottomFixer
 happymoddownload.com##.ad-wap
 
-! Hinative.com
 hinative.com##.active.mod_banner_app_download_sticky_button
 hinative.com##.mod_ads_balloon.chat_content_wrapper
-! Topicanative.edu.vn
 topicanative.edu.vn##.sgpb-popup-dialog-main-div-wrapper
 topicanative.edu.vn##.sgpb-popup-overlay.sgpb-theme-1-overlay
 
