@@ -156,10 +156,10 @@ motchill.net##.container > .film-note
 ! 12, MotChillTvn.com/ 06-8-2024
 ||raw.githubusercontent.com/mrcotb/aadriver/main/*new-607x75.gif$image
 ||polyfill.io^
-||s.shopee.vn^
-||s.lazada.vn^
-||shope.ee^
-||shopee.vn^$doc
+||s.shopee.vn/an_redir$doc
+||s.lazada.vn^$doc
+||shope.ee^$doc
+!||shopee.vn^$doc
 ||baodientu.online^
 ||fecabookvn.com^
 ||fecabookz.com^
