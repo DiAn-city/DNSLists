@@ -159,7 +159,7 @@ motchill.net##.container > .film-note
 ||s.shopee.vn/an_redir$doc
 ||s.lazada.vn^$doc
 ||shope.ee^$doc
-!||shopee.vn^$doc
+||shopee.vn^$removeparam=uls_trackid
 ||baodientu.online^
 ||fecabookvn.com^
 ||fecabookz.com^
