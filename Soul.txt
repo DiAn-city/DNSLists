@@ -1,8 +1,9 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025-10-16
+! Version: 2025.10.28
 ! Expires: 1 day
-!
+cloudflare.com#@#.qc
+@@||link.7-eleven.vn^
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.art|theundergroundclub.net|hentaivn.tube|hentaivn.news
 ||i.imgur.com/*.gif$domain=phimmoi11.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|sayhentai.pro
@@ -176,7 +177,6 @@ play.anh.moe##.nsfw-overlay
 maytinhgiaphat.vn###hn-aff-overlay
 ||accounts.google.com/gsi/iframe/select$subdocument
 www-bbc-com.translate.goog##.eh3hs0a4.bbc-1f1v9xr
-cloudflare.com#@#.qc
 
 ! YouTube Mobile 15-8-2024
 !m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(1)
