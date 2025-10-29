@@ -23,6 +23,7 @@ anhvip.xyz
 browserleaks.com
 addr.tools
 metric.gstatic.com
+assets-prod.sumo.prod.webservices.mozgcp.net
 cdn-vn2.hnmxntgn.com
 themjav.com
 vntop.icu
