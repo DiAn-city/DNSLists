@@ -24,6 +24,8 @@ browserleaks.com
 addr.tools
 metric.gstatic.com
 assets-prod.sumo.prod.webservices.mozgcp.net
+survey.brand.zing.vn
+mihentai.com
 cdn-vn2.hnmxntgn.com
 themjav.com
 vntop.icu
