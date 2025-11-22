@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025.10.28
+! Version: 2025.11.22
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||link.7-eleven.vn^
@@ -189,6 +189,12 @@ www.hbmanga.com##.comic-contain > div.mobadsq
 www.hbmanga.com###sticky_ads_frame_a
 # Vietnamese: 13
 ! 1. Newtruyentranh3.com 07/10/2025
+||wmavhyon.com^$removeparam=xdw
+||wmavhyon.com^$removeparam=puf
+||wmavhyon.com^$removeparam=jdpo
+||wmavhyon.com^$removeparam=wam
+||wmavhyon.com^$removeparam=bgj
+||wmavhyon.com^$removeparam=ync
 ||sacodnajroh.com^$removeparam=rhr
 ||sacodnajroh.com^$removeparam=vzj
 ||sacodnajroh.com^$removeparam=ljr
