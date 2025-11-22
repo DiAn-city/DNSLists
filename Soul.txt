@@ -198,6 +198,7 @@ www.hbmanga.com###sticky_ads_frame_a
 ||sacodnajroh.com^$removeparam=rhr
 ||sacodnajroh.com^$removeparam=vzj
 ||sacodnajroh.com^$removeparam=ljr
+||sacodnajroh.com^$removeparam=iimhy
 ||sacodnajroh.com^$removeparam=bwy
 ||sacodnajroh.com^$removeparam=ufe
 ||sacodnajroh.com^$removeparam=ouf
