@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2025.11.22
+! Version: 2025.11.28
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||link.7-eleven.vn^
@@ -35,10 +35,7 @@ animetvn.com##.shareUrl, .thongbao20
 ||vuianime.net/catfish_26.gif$image
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
-! 4, VuiGhe.net
 vuighe.net##.banner-masthead
-
-# group_Novel: 2
 doctruyenchufull.com##[src]
 lightnovelpub.com##.show.sidebar-wrapper
 novelpub.com##.adsbox
@@ -46,25 +43,23 @@ novelpub.com##.adsbox
 ||m.mayiwxw.com/1KHO3FxT/*$script
 /WH369.js$script
 /LH370GE2.js$script
-! 2, 2023-02-20
+! 2023-02-20
 wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
-
-# group_News: 23
-! 1, Android Police (22-2-2024)
+! Android Police (22-2-2024)
 www.androidpolice.com##.affiliate-sponsored
 www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
-! 2, ChromeStory.com
+! ChromeStory.com
 chromestory.com##.widget-area.custom-widget
-! 3, ChromeUnBoxed.com
+! ChromeUnBoxed.com
 chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
-! 4, CocCoc News
+! CocCoc News
 news.coccoc.com##._275a2205-ad
-! 5, Báo Công an TP.HCM
+! Báo Công an TP.HCM
 congan.com.vn##.adMobileHeader
-! 6, DanChimViet.info 16-9-2024
+! DanChimViet.info 16-9-2024
 www.danchimviet.info##.td-with-like.td-post-sharing-top.td-post-sharing
 www.danchimviet.info##.td-with-like.td-post-sharing-bottom.td-post-sharing
 ! 7, DanQuyen.com 03-7-2024
@@ -177,18 +172,15 @@ play.anh.moe##.nsfw-overlay
 maytinhgiaphat.vn###hn-aff-overlay
 ||accounts.google.com/gsi/iframe/select$subdocument
 www-bbc-com.translate.goog##.eh3hs0a4.bbc-1f1v9xr
-
 ! YouTube Mobile 15-8-2024
 !m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(1)
 !m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(3)
 
 ! GROUP_Truyen
-# Chinese
 ! Baozimh.com/ 26-3-2024
 www.hbmanga.com##.comic-contain > div.mobadsq
 www.hbmanga.com###sticky_ads_frame_a
-# Vietnamese: 13
-! 1. Newtruyentranh3.com 07/10/2025
+! Newtruyentranh3.com 07/10/2025
 ||wmavhyon.com^$removeparam=xdw
 ||wmavhyon.com^$removeparam=puf
 ||wmavhyon.com^$removeparam=jdpo
@@ -240,13 +232,10 @@ otakusan.net##.vertical-banner
 ! 13, Pops.vn/ 19-8-2023
 ||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
-! Rule bên dưới làm không xem được video ở kids.pops.vn
-!pops.vn##.wrapper-videojs_popsVideo__tuLfR.vjs-root-dom
-# Korean
-! 13, Naver Comic
+||truyensex.vip/anh/catfish.js$script
+||truyensex.vip/anh/popup1.js$script
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
-! 14, NewToki466 29-12-2024
 /tokinbtoki/*.gif
 ||newtoki.help/banner/$image
 ||xn--ph1bph0az41x.org^*.gif$image
@@ -255,7 +244,6 @@ newtoki.help##.banner2
 newtoki.biz##.banner3
 newtoki.*###hd_pops_4
 newtoki466.com##.media-heading
-! 15, m.newtokirun.com 29-9-2024
 ||blogger.googleusercontent.com/img/a/AVvXsE*$image,domain=newtokirun.com
 ! https://newtoki.one 15-9-2024
 newtoki.one##.banner
@@ -263,7 +251,6 @@ newtoki.one##.banner
 wfwf350.com##.top-banner
 ! https://늑대닷컴.org , https://xn--ph1bph0az41x.org (15-9-2024)
 늑대닷컴.org##.banners
-# English
 ! 15, Mangabtt.com/ 2023-11-22
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 mangabtt.com##div.reading-control
@@ -275,7 +262,6 @@ reality-quest.online##.essb_links_list
 reality-quest.online##.kofi-button
 ! 18, ReaperScans.com
 ||media.reaperscans.com/file/reaperscans/1280x350/talesofdemons.jpg$image
-
 ! SmsOnline.cloud 11-5-2025
 www.smsonline.cloud##.block.adsbygoogle
 www.smsonline.cloud##aside.css-17anw56
@@ -441,13 +427,9 @@ meomeotv.pro##.ads-inside-video
 ||demo123.info/preload/vip.js$script,domain=sexhd89.com
 ! 23, Vn.SexVietNam.Sex/ 01-8-2024
 ||vn.sexvietnam.sex/ads/ads.js$script
-! END
-
 ! ZingMp3.vn 22-4-2025 
 ||zingmp3.vn/api/v2/promotion/get/zones$xhr
-
 tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
-
 d3ward.github.io##.adbox.banner_ads.adsbox
 d3ward.github.io##.textads
 /pagead.js$domain=d3ward.github.io
