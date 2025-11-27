@@ -4,6 +4,8 @@
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||link.7-eleven.vn^
+/anh/catfish.js$script,domain=truyensex.vip|truyensextv99.net
+/anh/popup1.js$script,domain=truyensex.vip|truyensextv99.net
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.art|theundergroundclub.net|hentaivn.tube|hentaivn.news
 ||i.imgur.com/*.gif$domain=phimmoi11.net
 ||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|sayhentai.pro
@@ -232,8 +234,6 @@ otakusan.net##.vertical-banner
 ! 13, Pops.vn/ 19-8-2023
 ||cdn.popsww.com/popsapp/static/pops-video-v1.mp4$media
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
-||truyensex.vip/anh/catfish.js$script
-||truyensex.vip/anh/popup1.js$script
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
 /tokinbtoki/*.gif
