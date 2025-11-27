@@ -8,7 +8,7 @@ cloudflare.com#@#.qc
 /anh/popup1.js$script,domain=truyensex.vip|truyensextv99.net
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.art|theundergroundclub.net|hentaivn.tube|hentaivn.news
 ||i.imgur.com/*.gif$domain=phimmoi11.net
-||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc|sayhentai.pro
+||qph.cf2.quoracdn.net/main-qimg-*$image,domain=phevkl.vc
 questsupremacy.com,regressorinstructionmanual.com##.code-block
 phimmoi.today,phimmoinet.lol,meomeotv.pro##.popUpBannerBox
 ||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
