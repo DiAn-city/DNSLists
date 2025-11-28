@@ -244,7 +244,7 @@ newtoki.help##.banner2
 newtoki.biz##.banner3
 newtoki.*###hd_pops_4
 newtoki466.com##.media-heading
-||blogger.googleusercontent.com/img/a/AVvXsE*$image,domain=newtokirun.com
+||blogger.googleusercontent.com/img/a/AVvXsE*$image,domain=뉴토끼대피소.com
 ! https://newtoki.one 15-9-2024
 newtoki.one##.banner
 ! 늑대닷컴 https://wfwf350.com 15-9-2024
