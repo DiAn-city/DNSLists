@@ -33,6 +33,7 @@ gemwin.vip
 sun.win
 sunwin.pro
 sunwin.sx
+sun.me
 vip79.win
 vip79.top
 zo10.win
