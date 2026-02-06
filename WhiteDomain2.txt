@@ -28,6 +28,7 @@ addr.tools
 metric.gstatic.com
 assets-prod.sumo.prod.webservices.mozgcp.net
 survey.brand.zing.vn
+api.honeygain.com
 mihentai.com
 cdn-vn2.hnmxntgn.com
 themjav.com
