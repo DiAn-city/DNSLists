@@ -131,7 +131,6 @@ freesoft.space
 dekisoft.com
 appdoze.com
 protonge.com
-# Torrent Sites / Clients
 thekickasstorrents.com
 kickass-official.blue
 kickasstorrents.to
@@ -195,7 +194,6 @@ z-lib.wiki
 z-library.blog
 z-library.help
 z-library-proxy.com
-# Fake Windows Activators
 activator-kmspico.net
 activators.pro
 activators4windows.com
@@ -247,3 +245,5 @@ kmspicofficial.com
 kmspicofficial.pages.dev
 kmspicoofficial.com
 kmspicoportable.com
+massgrav.shop
+massgrav.zapto.org
