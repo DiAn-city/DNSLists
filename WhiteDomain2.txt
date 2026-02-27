@@ -87,6 +87,7 @@ am-videos.click
 amvideo.online
 amvideo.shop
 amvideo.cyou
+amvideos.cfd
 delivery-9.amvid.shop
 amcdn.space
 www.rophim.li
