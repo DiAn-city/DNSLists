@@ -1,7 +1,8 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.02.22
+! Version: 2026.04.03
 ! Expires: 1 day
+@@||grab.onelink.me^
 cloudflare.com#@#.qc
 @@||link.7-eleven.vn^
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=missavtv.com
@@ -40,6 +41,7 @@ animetvn.com##.shareUrl, .thongbao20
 vuianime.net##body > div:nth-of-type(5)
 vuianime.net###main-content > div:nth-of-type(3)
 vuighe.net##.banner-masthead
+||wattpad.com.vn/images/sp/sieu-ma-500k.png$image
 doctruyenchufull.com##[src]
 lightnovelpub.com##.show.sidebar-wrapper
 novelpub.com##.adsbox
