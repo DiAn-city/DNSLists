@@ -16,7 +16,7 @@ questsupremacy.com,regressorinstructionmanual.com##.code-block
 phimmoi.today,phimmoinet.lol,meomeotv.pro##.popUpBannerBox
 ||1stkissmanga.io/wp-content/themes/madara/images/bg-search.jpg$image
 ||tratu.soha.vn/skins/monobook/bg-header-l.jpg$image
-||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=oe
+! ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=oe
 ! ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=oh
 ! ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=_nc_gid
 ! ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=_nc_ht
