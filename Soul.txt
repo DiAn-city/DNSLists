@@ -21,7 +21,7 @@ phimmoi.today,phimmoinet.lol,meomeotv.pro##.popUpBannerBox
 ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=_nc_gid
 ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=_nc_ht
 ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=_nc_oc
-||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=_nc_ohc
+! ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=_nc_ohc
 ! ||instagram.fsgn2-8.fna.fbcdn.net^$removeparam=_nc_cat
 ||cdn.hentai247.vip//banner
 hentai247.vip##.ads_popup
