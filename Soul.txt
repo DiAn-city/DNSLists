@@ -29,6 +29,7 @@ hentai247.vip##.ads_popup
 ||hentaivn.cx/banner_image/banners/33-174773*.gif$image
 ||l.linklyhq.com/l/1oOoo
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
+sayhentai.sh###say-inpage-push
 ||cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js$script,domain=sayhentai.ink
 ||ak-d.tripcdn.com/images/*.gif$domain=sayhentai.pro
 sayhentai.pro##.ads_popup.hidden-ads
