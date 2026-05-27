@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.04.03
+! Version: 2026.05.28
 ! Expires: 1 day
 @@||grab.onelink.me^
 cloudflare.com#@#.qc
@@ -53,23 +53,19 @@ wattpad.com.vn###flyer
 doctruyenchufull.com##[src]
 lightnovelpub.com##.show.sidebar-wrapper
 novelpub.com##.adsbox
-! 1, m.mayiwxw.com
 ||m.mayiwxw.com/1KHO3FxT/*$script
 /WH369.js$script
 /LH370GE2.js$script
-! 2023-02-20
 wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
-! Android Police (22-2-2024)
+||down-vn.img.susercontent.com/file/sg-11134258-823*-mogn*@resize_w*_nl.webp$image
+123truyen.vn##+js(set-constant, click_ads, emptyfunction)
 www.androidpolice.com##.affiliate-sponsored
 www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
-! ChromeStory.com
 chromestory.com##.widget-area.custom-widget
-! ChromeUnBoxed.com
 chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.code-block-8.code-block
 chromeunboxed.com##.crp_related_block.crp_related
-! CocCoc News
 news.coccoc.com##._275a2205-ad
 ! Báo Công an TP.HCM
 congan.com.vn##.adMobileHeader
