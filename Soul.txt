@@ -167,6 +167,7 @@ motchill.net##.container > .film-note
 ||raw.githubusercontent.com/mrcotb/aadriver/main/*new-607x75.gif$image
 ||polyfill.io^
 ||s.shopee.vn/an_redir$doc
+||c.lazada.vn^$doc
 ||s.lazada.vn^$doc
 ||shope.ee^$doc
 ||shopee.vn^$removeparam=uls_trackid
