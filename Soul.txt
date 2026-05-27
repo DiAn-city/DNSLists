@@ -30,16 +30,14 @@ hentai247.vip##.ads_popup
 ||l.linklyhq.com/l/1oOoo
 ||manhwa18.com/app/manga/themes/default/assets/images/logo-demo.gif$popup
 sayhentai.sh###say-inpage-push
-||cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js$script,domain=sayhentai.ink
+sayhentai.sh##+js(remove-node-text, script, sayhentai_popunder_v1)
+sayhentai.sh##+js(remove-node-text, script, __say_inpage_push_loaded__)
 ||ak-d.tripcdn.com/images/*.gif$domain=sayhentai.pro
-sayhentai.pro##.ads_popup.hidden-ads
 ||imgsrc.baidu.com/forum/pic/item/*.gif$image,domain=sayhentai.pro
 ||360buyimg.com/jdsurvey/jfs/t1/*.gif$image
 ||vipads.live^
 ||vipads.cc^
 ||i9zk5f8szj4x8saj5wcks8acja5sk1dz8stjs2g8isdcn6ejxn8zsr5xjs5h.com^
-sayhentai.pro##.float-ck-center-lt
-||sayhentai.pro/assets/css/images/bg-search.jpg$image
 ||gwemwyqugg.com^
 ||uk88.com^
 ||acmorhmiwtit.com^
