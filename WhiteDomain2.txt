@@ -31,6 +31,7 @@ assets-prod.sumo.prod.webservices.mozgcp.net
 survey.brand.zing.vn
 api.honeygain.com
 img1.wsimg.com
+app.adjust.io
 mihentai.com
 cdn-vn2.hnmxntgn.com
 themjav.com
@@ -108,7 +109,7 @@ cmangax10.com
 newtruyentranh7.com
 truyenqqko.com
 xn--h10b90bi2ymkqbpc.net
-newto12.com
+newto13.com
 3tpharma.com.vn
 coopfood17.com
 bidofoodbd.com
