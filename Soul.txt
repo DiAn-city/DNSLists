@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.05.28
+! Version: 2026.06.13
 ! Expires: 1 day
 @@||grab.onelink.me^
 cloudflare.com#@#.qc
