@@ -242,14 +242,8 @@ otakusan.net##.vertical-banner
 pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
-/tokinbtoki/*.gif
-||newtoki.help/banner/$image
-||xn--ph1bph0az41x.org^*.gif$image
-newtoki.biz##.ba_test
-newtoki.help##.banner2
-newtoki.biz##.banner3
+||newto13.com/data/apms/ba*g$image
 newtoki.*###hd_pops_4
-newtoki466.com##.media-heading
 ||blogger.googleusercontent.com/img/a/AVvXsE*$image,domain=뉴토끼대피소.com
 늑대닷컴.org##.banners
 ! 15, Mangabtt.com/ 2023-11-22
