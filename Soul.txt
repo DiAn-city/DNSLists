@@ -243,9 +243,8 @@ pops.vn##.appHeader.w-full.z-20.top-0.left-0.fixed
 m.comic.naver.com###flex_ad_image
 m.comic.naver.com##.v2.band_banner
 ||newto13.com/data/apms/ba*g$image
-newtoki.*###hd_pops_4
-||blogger.googleusercontent.com/img/a/AVvXsE*$image,domain=뉴토끼대피소.com
-늑대닷컴.org##.banners
+||fvcdn3.com/board_uploads/$image
+@@||sbxh6.com/init/disable-devtool.min.js$script,1p
 ! 15, Mangabtt.com/ 2023-11-22
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 mangabtt.com##div.reading-control
