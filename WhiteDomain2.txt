@@ -30,6 +30,9 @@ survey.brand.zing.vn
 api.honeygain.com
 img1.wsimg.com
 app.adjust.io
+log.mmstat.com
+pubsub.googleapis.com
+fundingchoicesmessages.google.com
 mihentai.com
 cdn-vn2.hnmxntgn.com
 themjav.com
