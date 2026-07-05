@@ -112,7 +112,7 @@ vietnamnet.vn###vmcad_inview_container
 vietnamnet.vn###Mobile_AdsArticleBodyInArticle
 ! 23, VnExpress.net 2025-3-09
 ! Nút tài khoản và nút thông báo ở góc trên bên phải:
-||s1.vnecdn.net/myvne/j/v270/m_myvne_users_v3.js
+! ||s1.vnecdn.net/myvne/j/v270/m_myvne_users_v3.js
 ! app
 vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
 vnexpress.net##.wrap-hd-adblock
