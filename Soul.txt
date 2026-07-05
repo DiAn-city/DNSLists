@@ -1,12 +1,11 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.06.13
+! Version: 2026.07.05
 ! Expires: 1 day
 @@||grab.onelink.me^
 cloudflare.com#@#.qc
 @@||link.7-eleven.vn^
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=missavtv.com
-@@||netshort.com/sensors/sensorsdata.js$script
 /anh/catfish.js$script,domain=truyensex.vip|truyensextv99.net
 /anh/popup1.js$script,domain=truyensex.vip|truyensextv99.net
 /wp-content/uploads/202*/*/*.gif$domain=cliphotvn.icu|hentaivn69.top|tuoi69.art|theundergroundclub.net|hentaivn.tube|hentaivn.news
