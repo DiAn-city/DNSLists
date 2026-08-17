@@ -1,9 +1,9 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.07.05
+! Version: 2026.08.17
 ! Expires: 1 day
-@@||grab.onelink.me^
 cloudflare.com#@#.qc
+@@||grab.onelink.me^
 @@||link.7-eleven.vn^
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=missavtv.com
 /anh/catfish.js$script,domain=truyensex.vip|truyensextv99.net
@@ -113,50 +113,48 @@ vietnamnet.vn###Mobile_AdsArticleBodyInArticle
 ! 23, VnExpress.net 2025-3-09
 ! Nút tài khoản và nút thông báo ở góc trên bên phải:
 ! ||s1.vnecdn.net/myvne/j/v270/m_myvne_users_v3.js
-! app
 vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
 vnexpress.net##.wrap-hd-adblock
 vnexpress.net##.button-adblock
 vnexpress.net##.box-taitro.box-category
-! Phim
 ||phimsub.com/push/t97t2x/kkpp8zl8.gif$image
 ||img.nguonc.com/public/images/*.gif$image
 ||bf.333xbet.com/18881999/video888.mp4
-! 3. phimbuon.net 2025-4-15
+! phimbuon.net 2025-4-15
 ||phimbuon.net/Content/ads_preload.js$script
 ||xemphimhay247.com/Files/Ads/i9-720x90.gif
-! 4. Phimmoi.today, Phimmoinet.lol
+! Phimmoi.today, Phimmoinet.lol
 ||i.imgur.com/HG2ebaq.gif$image
 ||i.postimg.cc^$image,domain=phimmoi.today|phimmoinet.lol
 ||linkads.xyz/i9bet/400x300.jpg$image
-! 5. phimmoi02.net 26-12-2024
+! phimmoi02.net 26-12-2024
 ||aff.bk8vnaf.com/public/html/cms/A20240725090242190.gif$image
-! 6. Phimmoiz1.net
+! Phimmoiz1.net
 phimmoiz1.net##.container > .right-box
 phimmoiz1.net###catfish
 phimmoiz1.net###popup-giua-man-hinh
-! 7, NguonHD.net, NguonTvb.com 22-6-2024
+! NguonHD.net, NguonTvb.com 22-6-2024
 ||nguontv.com^
 ! https://154.82.109.153/57.html
 ||154.82.109.153^
 nguonhd.net,nguontvb.com###antiAdblock
-! 7, TvZingHD.pro 15-3-2025
+! TvZingHD.pro 15-3-2025
 ||images.weserv.nl/?url=https://i.ibb.co/F4FFhJkV/400-x-300.jpg$image
 ||images.weserv.nl/?url=https://i.imghippo.com/files/*.gif$image
 ||raw.githubusercontent.com/antoinettechurch86345/tvc/main/video888480.mp4$media
-! 8, TvZingHD.co/ 25-02-2024
+! TvZingHD.co/ 25-02-2024
 tvzinghd.co###prei9ztv
 ||images.weserv.nl/?url=https://i.ibb.co/T8CRFfK/320-x80f.gif&output=gif&n=-1$image
-! 9, PhimTop.net
+! PhimTop.net
 ||phimtop.net/iframe/mobi_top.html$subdocument
 phimtop.net,vuianime.net,saytruyen.net##center
 phimtop.net##.sticky_bottom
 phimtop.net###player_message
-! 10, BiChill.tv
+! BiChill.tv
 bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
-! 11, MotChill.net
+! MotChill.net
 motchill.net##.container > .film-note
-! 12, MotChillTvn.com/ 06-8-2024
+! MotChillTvn.com/ 06-8-2024
 ||raw.githubusercontent.com/mrcotb/aadriver/main/*new-607x75.gif$image
 ||polyfill.io^
 ||s.shopee.vn/an_redir$doc
@@ -183,8 +181,6 @@ www-bbc-com.translate.goog##.eh3hs0a4.bbc-1f1v9xr
 ! YouTube Mobile 15-8-2024
 !m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(1)
 !m.youtube.com##.modern-tap-target-ui.center.player-controls-middle-core-buttons > div:nth-of-type(3)
-
-! GROUP_Truyen
 ! Baozimh.com/ 26-3-2024
 www.hbmanga.com##.comic-contain > div.mobadsq
 www.hbmanga.com###sticky_ads_frame_a
@@ -202,17 +198,17 @@ www.hbmanga.com###sticky_ads_frame_a
 ||sacodnajroh.com^$removeparam=bwy
 ||sacodnajroh.com^$removeparam=ufe
 ||sacodnajroh.com^$removeparam=ouf
-! 2. NhatTruyenvn.com 27-6-2024
+! NhatTruyenvn.com 27-6-2024
 nhattruyenvn.com###myPopup-game
-! 2, NetTruyen.com 03-3-2023
+! NetTruyen.com 03-3-2023
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||phumsise.com^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
-! 3, NettruyenR.com 2025-4-18
+! NettruyenR.com 2025-4-18
 ||withagecomeswisdom.live^
 ||xibet.com^$doc
 ||yougetwhatyoupayfor.net^$script
-! 4, NetTruyen1975.com 23-4-2025
+! NetTruyen1975.com 23-4-2025
 ! Shopee onclick:
 nettruyenvnpt.com,nettruyen1975.com##.ads_insert_shop
 ||hello888999.com^
@@ -222,12 +218,11 @@ nettruyenvnpt.com,nettruyen1975.com##.ads_insert_shop
 ||truyenxxx.org/anh/popup1.js
 ||tutientruyen5.xyz/app/manga/uploads/72890.gif$image
 ||tutientruyen5.xyz/app/manga/uploads/400300.jpg$image
-! 10, Truyenqqgo.com (16/6/2025)
-! mấy link cuối trang:
+||st.truyenqqko.com/template/frontend/js/widget/popunder-core.js$script
+||st.truyenqqko.com/template/frontend/js/widget/widget-core.js$script
 truyenqqgo.com##.dark > .div_middle > .right > ul
 ||truyenvua.xyz/qc-new/*$image
 ||aqnobnhcod.com^
-! 11, VlogTruyen
 vlogtruyen2.net##.fancybox-skin
 vlogtruyen2.net##.relate-manga.box-dinh-ky
 vlogtruyen2.net##.mobile-catfish
