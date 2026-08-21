@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.08.17
+! Version: 2026.08.21
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||grab.onelink.me^
@@ -56,7 +56,8 @@ novelpub.com##.adsbox
 wap.ibiquge.la###strl
 ||banyueya.top/bkk.html
 ||down-vn.img.susercontent.com/file/sg-11134258-823*-mogn*@resize_w*_nl.webp$image
-123truyen.vn##+js(set-constant, click_ads, emptyfunction)
+! 123truyen.vn##+js(set-constant, click_ads, emptyfunction)
+123truyen.vn##+js(addEventListener-defuser, click)
 www.androidpolice.com##.affiliate-sponsored
 www.androidpolice.com##.js-content.browse-clip:has-text(/(Chromebook|Chrome OS)/)
 chromestory.com##.widget-area.custom-widget
