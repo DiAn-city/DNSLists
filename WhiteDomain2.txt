@@ -151,6 +151,8 @@ s3.zpicdn.baby
 epg.best
 res.subscene.best
 changes.fmhy.bid
+dnstest.indevs.in
+img1.du8.in
 viet69.name
 objection.lol
 scribe.rip
