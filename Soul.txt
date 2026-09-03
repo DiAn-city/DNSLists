@@ -4,6 +4,7 @@
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||grab.onelink.me^
+@@||jumptask.go2cloud.org^
 @@||link.7-eleven.vn^
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=missavtv.com
 /anh/catfish.js$script,domain=truyensex.vip|truyensextv99.net
