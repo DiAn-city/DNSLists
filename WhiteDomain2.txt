@@ -35,7 +35,6 @@ pubsub.googleapis.com
 fundingchoicesmessages.google.com
 mihentai.com
 cdn-vn2.hnmxntgn.com
-vntop.icu
 s.dam69z.info
 toptruyenviet.info
 xempire.io
