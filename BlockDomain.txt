@@ -35,6 +35,7 @@ gemwin.vip
 sun.win
 sunwin.pro
 sunwin.sx
+sunwin.parts
 sun.me
 vip79.win
 vip79.top
