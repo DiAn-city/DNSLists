@@ -100,7 +100,7 @@ vnexpress.net##.box-taitro.box-category
 ||phimsub.com/push/t97t2x/kkpp8zl8.gif$image
 ||img.nguonc.com/public/images/*.gif$image
 ||bf.333xbet.com/18881999/video888.mp4
-@@||embed2.streamc.xyz/ad_header.js$script
+@@||embed*.streamc.xyz/ad_header.js$script
 ||phimbuon.net/Content/ads_preload.js$script
 ||xemphimhay247.com/Files/Ads/i9-720x90.gif
 ||i.imgur.com/HG2ebaq.gif$image
