@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.09.04
+! Version: 2026.09.16
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||grab.onelink.me^
@@ -42,6 +42,7 @@ sayhentai.cx##+js(remove-node-text, script, __say_inpage_push_loaded__)
 ||gwemwyqugg.com^
 ||uk88.com^
 ||acmorhmiwtit.com^
+||js.wpadmngr.com/static/adManager.js$script,domain=toondex.co
 animetvn.com##.col-md-12.col-sm-12.col-xs-12 > div.thongbaonew
 animetvn.com##.shareUrl, .thongbao20
 ||vuianime.net/catfish_26.gif$image
