@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.09.16
+! Version: 2026.09.20
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||grab.onelink.me^
@@ -127,11 +127,14 @@ bichill.tv##.show.fade.alert-dismissible.alert-warning.alert
 motchill.net##.container > .film-note
 ||raw.githubusercontent.com/mrcotb/aadriver/main/*new-607x75.gif$image
 ||polyfill.io^
+||cdn.livechatinc.com/tracking.js$script,domain=my.flashstart.com
+||shope.ee^$doc
 ||s.shopee.vn/an_redir$doc
+||shopee.vn^$removeparam=uls_trackid
+@@||shopee.vn/dlink/verify/email-link
+@@||shopee.vn/lephatcomputer300713
 ||c.lazada.vn^$doc
 ||s.lazada.vn^$doc
-||shope.ee^$doc
-||shopee.vn^$removeparam=uls_trackid
 ||baodientu.online^
 ||fecabookvn.com^
 ||fecabookz.com^
