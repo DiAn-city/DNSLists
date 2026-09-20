@@ -299,6 +299,7 @@ mephim18.com###backgroundPopupp
 heovl.best,vlxx.sale##.video-js.tvc-video
 ||vjs.zencdn.net^$domain=heovl.best
 ||code.jquery.com^$domain=heovl.best
+||ql.phe69.shop/api/get-ads.php$xhr
 ||app-assets.project1content.com/tour/@one/blocks/async/DisclaimerBlock.*.js$script
 ||app-assets.project1content.com/tour/@one/blocks/async/CatfishBlock.*.js$script
 www.publicagent.com##.iwCJUI.sc-3hrznp-2
