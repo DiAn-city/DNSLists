@@ -325,7 +325,3 @@ meomeotv.pro##.ads-inside-video
 ||vn.sexvietnam.sex/ads/ads.js$script 
 ||zingmp3.vn/api/v2/promotion/get/zones$xhr
 tinhte.vn##.top-creators, .hero-stream-carousel, .hot-community-mobile, .tinhte-facts-wrapper
-d3ward.github.io##.adbox.banner_ads.adsbox
-d3ward.github.io##.textads
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
