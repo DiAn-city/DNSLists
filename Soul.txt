@@ -270,6 +270,14 @@ highporn.net##.my-2.container
 ||xxxads.info^$image
 koreanbj.club##.inPlayerGGdiv
 rphang.vet##.samVideoOverlay
+vlxx.sbs###popup_banner_beta
+||embed.streamxx.net/player/js/embed/ads-tvc-mp4.js$script
+||embed.streamxx.net/player/js/embed/ads-click-redirect.js$script
+||embed.streamxx.net/player/js/embed/ads-overlay-banner.js$script
+||embed.streamxx.net/player/js/embed/watermark.js$script
+||embed.streamxx.net/player/js/embed/ads-textlink.js$script
+||embed.streamxx.net/player/js/embed/ads-pause-ads.js$script
+||embed.streamxx.net/player/js/stream-tracking.js$script
 /aas/r45d/vki/*$script,redirect=noop.js
 ||vlxxmin.com/wp-content/themes/videotube/img/top-banner_6.gif$image
 ||spankbangdl.com^$domain=vlxxtube.pics|viet69.homes
