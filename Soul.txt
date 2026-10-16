@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.10.03
+! Version: 2026.10.16
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||grab.onelink.me^
@@ -171,9 +171,9 @@ nettruyenvnpt.com,nettruyen1975.com##.ads_insert_shop
 ||truyenxxx.org/anh/popup1.js
 ||tutientruyen5.xyz/app/manga/uploads/72890.gif$image
 ||tutientruyen5.xyz/app/manga/uploads/400300.jpg$image
+||st.truyenqqko.com/template/frontend/js/widget/consent-core.js$script
 ||st.truyenqqko.com/template/frontend/js/widget/popunder-core.js$script
 ||st.truyenqqko.com/template/frontend/js/widget/widget-core.js$script
-truyenqqgo.com##.dark > .div_middle > .right > ul
 ||truyenvua.xyz/qc-new/*$image
 ||aqnobnhcod.com^
 vlogtruyen2.net##.fancybox-skin
