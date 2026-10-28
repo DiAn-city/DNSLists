@@ -1,6 +1,6 @@
 ! Title: Soul
 ! Homepage: https://github.com/DiAn-city/DNSLists/edit/main/Soul.txt
-! Version: 2026.10.16
+! Version: 2026.10.29
 ! Expires: 1 day
 cloudflare.com#@#.qc
 @@||grab.onelink.me^
@@ -316,6 +316,7 @@ meomeotv.pro##.ads-inside-video
 ||a1.meomeotv.biz/mmtv/image/c6425dded6173147210b6a6e79ad74dadc5afdeb.webp$image
 ||a1.meomeotv.biz/mmtv/image/2b97eea091acd409c0a3d946d4349018805ae6ca.webp$image
 ||a1.meomeotv.biz/mmtv/image/473109878aaa2c940ecae015b4660a29cddd609e.webp$image
+||xamvn.my/files/*.gif$image
 ||xsub.tv/js/xsub_pu_25.js$xhr,1p
 ||ww1.javbabe.net/x1x/*.html$subdocument
 ||sexsub.baby/_1/i9b.gif$image
